@@ -1,0 +1,39 @@
+#
+# convert 01.
+#
+# a simple script that copies and does the necessary conversions so its
+# playable in the thumb drive for cars. older car interfaces don't
+# save progress when you turn off the car so this program splits
+# the mp3s into smaller chucks. I put it at 10 minutes but you can change
+# that in the settings below.
+# 
+# needed libs
+# 
+#   ffmpeg, lame, mp3splt, ruby
+# 
+# you will need to install these libraries. probaly using something like
+# homebrew, macports, or fink.
+#
+# config settings
+# 
+# dir_src: directory where the podcast are stored.
+#
+# dir_temp: a temp directory to work on.
+#
+# dir_dest: where you want the files to go eventually.
+#
+# opt_rsync: rsync settings if you need to change them.
+#
+# opt_lame: encoder settings. its using ffmpeg and lame.
+#   its written in this format.
+#   ffmpeg -i foo.m4a -acodec libmp3lame -ab 320k bar.mp3
+#   opt_lame is change the part between the m4a file and the mp3 file.
+#
+# opt_splt: setting for the splitting library.
+#   the last arg represents the time to split.
+dir_src: /Users/hubertwong/Music/iTunes/iTunes Media/Podcasts/
+dir_temp: /Users/hubertwong/temp/podcast/
+dir_dest: /Volumes/SANDISKUSB/PODCASTS/
+opt_rsync: -v -r -a -h
+opt_lame: -acodec libmp3lame -ab 320k
+opt_mp3splt: -f -t 10.00
