@@ -211,7 +211,3 @@ class Convert_01
   end
 	
 end
-
-# run app
-# c = Convert_01.new
-# c.run

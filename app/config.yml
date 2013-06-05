@@ -6,15 +6,24 @@
 # save progress when you turn off the car so this program splits
 # the mp3s into smaller chucks. I put it at 10 minutes but you can change
 # that in the settings below.
+#
+#
+#
+#
 # 
 # needed libs
 # 
 #   ffmpeg, lame, mp3splt, ruby
 # 
-# you will need to install these libraries. probaly using something like
+# you will need to install these libraries. probably using something like
 # homebrew, macports, or fink.
 #
+#
+#
+#
+#
 # config settings
+# note: if you have spaces or weird in the paths, you need to escape them.
 # 
 # dir_src: directory where the podcast are stored.
 #
@@ -31,7 +40,7 @@
 #
 # opt_splt: setting for the splitting library.
 #   the last arg represents the time to split.
-dir_src: /Users/hubertwong/Music/iTunes/iTunes Media/Podcasts/
+dir_src: /Users/hubertwong/Music/iTunes/iTunes\ Media/Podcasts/
 dir_temp: /Users/hubertwong/temp/podcast/
 dir_dest: /Volumes/SANDISKUSB/PODCASTS/
 opt_rsync: -v -r -a -h
