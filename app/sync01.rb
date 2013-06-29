@@ -12,6 +12,7 @@ class SyncItunes
 	end
 	
 	def rsync_str
+		puts '=> rsync ' + @@options + ' ' + @@dir_src + ' ' + @@dir_dest
 		'rsync ' + @@options + ' ' + @@dir_src + ' ' + @@dir_dest
 	end
 	

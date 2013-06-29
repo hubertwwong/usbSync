@@ -5,4 +5,4 @@
 require_relative 'convert01'
 
 c = Convert_01.new
-#c.run
+c.run
