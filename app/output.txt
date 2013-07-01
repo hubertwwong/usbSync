@@ -1,0 +1,2212 @@
+
+=> copying to temp dir.
+sending incremental file list
+A State of Trance Official Podcast/
+A State of Trance Official Podcast/A State of Trance Official Podcast Episode 272.m4a
+A State of Trance Official Podcast/A State of Trance Official Podcast Episode 274.m4a
+A State of Trance Official Podcast/A State of Trance Official Podcast Episode 275.m4a
+A State of Trance Official Podcast/A State of Trance Official Podcast Episode 276.m4a
+APM_ Marketplace/
+APM_ Marketplace/06-26-13 Marketplace.mp3
+APM_ Marketplace/06-27-13 Marketplace.mp3
+APM_ Marketplace/06-28-13 Marketplace.mp3
+Corsten's Countdown Official Podcast by FLAIX.fr/
+Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #307 podcast.m4a
+Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #308 podcast.m4a
+Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #309 podcast.m4a
+MarketFoolery/
+MarketFoolery/MarketFoolery_ 06.24.2013.mp3
+MarketFoolery/MarketFoolery_ 06.25.2013.mp3
+MarketFoolery/MarketFoolery_ 06.26.2013.mp3
+NPR_ Planet Money Podcast/
+NPR_ Planet Money Podcast/01 #457_ Why Pink.mp3
+NPR_ Planet Money Podcast/01 #458_ Bangladesh's T-Shirt Economy.mp3
+NPR_ Planet Money Podcast/01 #467_ Tires, Taxes And The Grizz.mp3
+NPR_ Planet Money Podcast/01 #468_ Kid Rock Vs. The Scalpers.mp3
+NPR_ Planet Money Podcast/01 #469_ Rhino Horns And Clean Water.mp3
+
+sent 371.87M bytes  received 376 bytes  67.61M bytes/sec
+total size is 718.34M  speedup is 1.93
+
+=> look for m4a files and convert it to mp3
+
+=> at /Users/hubertwong/temp/podcast/A State of Trance Official Podcast
+
+=> encoding [A State of Trance Official Podcast][A State of Trance Official Podcast Episode 272.m4a]
+
+=> init /Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 272.m4a
+
+=> init2 /Users/hubertwong/temp/podcast/A\ State\ of\ Trance\ Official\ Podcast/A\ State\ of\ Trance\ Official\ Podcast\ Episode\ 272.m4a
+
+=> init3 /Users/hubertwong/temp/podcast/A\ State\ of\ Trance\ Official\ Podcast/A\ State\ of\ Trance\ Official\ Podcast\ Episode\ 272.m4a
+
+=> init /Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 272.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/A\ State\ of\ Trance\ Official\ Podcast/A\ State\ of\ Trance\ Official\ Podcast\ Episode\ 272.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/A\ State\ of\ Trance\ Official\ Podcast/A\ State\ of\ Trance\ Official\ Podcast\ Episode\ 272.mp3
+=> src /Users/hubertwong/temp/podcast/A\ State\ of\ Trance\ Official\ Podcast/A\ State\ of\ Trance\ Official\ Podcast\ Episode\ 272.m4a
+=> dest /Users/hubertwong/temp/podcast/A\ State\ of\ Trance\ Official\ Podcast/A\ State\ of\ Trance\ Official\ Podcast\ Episode\ 272.mp3
+ Processing file '/Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 272.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: found Xing or Info header. Switching to frame mode... 
+ info: MPEG 1 Layer 3 - 44100 Hz - Joint Stereo - FRAME MODE - Total time: 22m.20s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 272_00m_00s__10m_00s.mp3" created
+   File "/Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 272_10m_00s__20m_00s.mp3" created
+   File "/Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 272_20m_00s__22m_20s_56h.mp3" created
+ Processed 51319 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 272_00m_00s__10m_00s.mp3
+
+=> init /Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 272_00m_00s__10m_00s.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/A\ State\ of\ Trance\ Official\ Podcast/A\ State\ of\ Trance\ Official\ Podcast\ Episode\ 272_00m_00s__10m_00s.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/A\ State\ of\ Trance\ Official\ Podcast/A\ State\ of\ Trance\ Official\ Podcast\ Episode\ 272_00m_00s__10m_00s.mp3
+>>>> /Users/hubertwong/temp/podcast/A\ State\ of\ Trance\ Official\ Podcast/A\ State\ of\ Trance\ Official\ Podcast\ Episode\ 272_00m_00s__10m_00s.mp3
+ Processing file '/Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 272_00m_00s__10m_00s.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: found Xing or Info header. Switching to frame mode... 
+ info: MPEG 1 Layer 3 - 44100 Hz - Joint Stereo - FRAME MODE - Total time: 10m.00s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 272_00m_00s__10m_00s_00m_00s__10m_00s.mp3" created
+ Processed 22970 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 272_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+
+=> init /Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 272_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/A\ State\ of\ Trance\ Official\ Podcast/A\ State\ of\ Trance\ Official\ Podcast\ Episode\ 272_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/A\ State\ of\ Trance\ Official\ Podcast/A\ State\ of\ Trance\ Official\ Podcast\ Episode\ 272_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+>>>> /Users/hubertwong/temp/podcast/A\ State\ of\ Trance\ Official\ Podcast/A\ State\ of\ Trance\ Official\ Podcast\ Episode\ 272_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+ Processing file '/Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 272_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: found Xing or Info header. Switching to frame mode... 
+ info: MPEG 1 Layer 3 - 44100 Hz - Joint Stereo - FRAME MODE - Total time: 10m.00s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 272_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3" created
+ Processed 22970 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 272_10m_00s__20m_00s.mp3
+
+=> init /Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 272_10m_00s__20m_00s.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/A\ State\ of\ Trance\ Official\ Podcast/A\ State\ of\ Trance\ Official\ Podcast\ Episode\ 272_10m_00s__20m_00s.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/A\ State\ of\ Trance\ Official\ Podcast/A\ State\ of\ Trance\ Official\ Podcast\ Episode\ 272_10m_00s__20m_00s.mp3
+>>>> /Users/hubertwong/temp/podcast/A\ State\ of\ Trance\ Official\ Podcast/A\ State\ of\ Trance\ Official\ Podcast\ Episode\ 272_10m_00s__20m_00s.mp3
+ Processing file '/Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 272_10m_00s__20m_00s.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: found Xing or Info header. Switching to frame mode... 
+ info: MPEG 1 Layer 3 - 44100 Hz - Joint Stereo - FRAME MODE - Total time: 10m.00s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 272_10m_00s__20m_00s_00m_00s__10m_00s.mp3" created
+ Processed 22970 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 272_10m_00s__20m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+
+=> init /Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 272_10m_00s__20m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/A\ State\ of\ Trance\ Official\ Podcast/A\ State\ of\ Trance\ Official\ Podcast\ Episode\ 272_10m_00s__20m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/A\ State\ of\ Trance\ Official\ Podcast/A\ State\ of\ Trance\ Official\ Podcast\ Episode\ 272_10m_00s__20m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+>>>> /Users/hubertwong/temp/podcast/A\ State\ of\ Trance\ Official\ Podcast/A\ State\ of\ Trance\ Official\ Podcast\ Episode\ 272_10m_00s__20m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+ Processing file '/Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 272_10m_00s__20m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: found Xing or Info header. Switching to frame mode... 
+ info: MPEG 1 Layer 3 - 44100 Hz - Joint Stereo - FRAME MODE - Total time: 10m.00s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 272_10m_00s__20m_00s_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3" created
+ Processed 22970 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 272_20m_00s__22m_20s_56h.mp3
+
+=> init /Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 272_20m_00s__22m_20s_56h.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/A\ State\ of\ Trance\ Official\ Podcast/A\ State\ of\ Trance\ Official\ Podcast\ Episode\ 272_20m_00s__22m_20s_56h.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/A\ State\ of\ Trance\ Official\ Podcast/A\ State\ of\ Trance\ Official\ Podcast\ Episode\ 272_20m_00s__22m_20s_56h.mp3
+>>>> /Users/hubertwong/temp/podcast/A\ State\ of\ Trance\ Official\ Podcast/A\ State\ of\ Trance\ Official\ Podcast\ Episode\ 272_20m_00s__22m_20s_56h.mp3
+ Processing file '/Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 272_20m_00s__22m_20s_56h.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: found Xing or Info header. Switching to frame mode... 
+ info: MPEG 1 Layer 3 - 44100 Hz - Joint Stereo - FRAME MODE - Total time: 2m.20s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 272_20m_00s__22m_20s_56h_00m_00s__02m_20s_62h.mp3" created
+ Processed 5380 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 272_20m_00s__22m_20s_56h_00m_00s__02m_20s_62h_00m_00s__02m_20s_57h.mp3
+
+=> init /Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 272_20m_00s__22m_20s_56h_00m_00s__02m_20s_62h_00m_00s__02m_20s_57h.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/A\ State\ of\ Trance\ Official\ Podcast/A\ State\ of\ Trance\ Official\ Podcast\ Episode\ 272_20m_00s__22m_20s_56h_00m_00s__02m_20s_62h_00m_00s__02m_20s_57h.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/A\ State\ of\ Trance\ Official\ Podcast/A\ State\ of\ Trance\ Official\ Podcast\ Episode\ 272_20m_00s__22m_20s_56h_00m_00s__02m_20s_62h_00m_00s__02m_20s_57h.mp3
+>>>> /Users/hubertwong/temp/podcast/A\ State\ of\ Trance\ Official\ Podcast/A\ State\ of\ Trance\ Official\ Podcast\ Episode\ 272_20m_00s__22m_20s_56h_00m_00s__02m_20s_62h_00m_00s__02m_20s_57h.mp3
+ Processing file '/Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 272_20m_00s__22m_20s_56h_00m_00s__02m_20s_62h_00m_00s__02m_20s_57h.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: found Xing or Info header. Switching to frame mode... 
+ info: MPEG 1 Layer 3 - 44100 Hz - Joint Stereo - FRAME MODE - Total time: 2m.20s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 272_20m_00s__22m_20s_56h_00m_00s__02m_20s_62h_00m_00s__02m_20s_57h_00m_00s__02m_20s_54h.mp3" created
+ Processed 5378 frames - Sync errors: 0
+ time split ok
+
+=> encoding [A State of Trance Official Podcast][A State of Trance Official Podcast Episode 274.m4a]
+
+=> init /Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 274.m4a
+
+=> init2 /Users/hubertwong/temp/podcast/A\ State\ of\ Trance\ Official\ Podcast/A\ State\ of\ Trance\ Official\ Podcast\ Episode\ 274.m4a
+
+=> init3 /Users/hubertwong/temp/podcast/A\ State\ of\ Trance\ Official\ Podcast/A\ State\ of\ Trance\ Official\ Podcast\ Episode\ 274.m4a
+
+=> init /Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 274.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/A\ State\ of\ Trance\ Official\ Podcast/A\ State\ of\ Trance\ Official\ Podcast\ Episode\ 274.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/A\ State\ of\ Trance\ Official\ Podcast/A\ State\ of\ Trance\ Official\ Podcast\ Episode\ 274.mp3
+=> src /Users/hubertwong/temp/podcast/A\ State\ of\ Trance\ Official\ Podcast/A\ State\ of\ Trance\ Official\ Podcast\ Episode\ 274.m4a
+=> dest /Users/hubertwong/temp/podcast/A\ State\ of\ Trance\ Official\ Podcast/A\ State\ of\ Trance\ Official\ Podcast\ Episode\ 274.mp3
+ Processing file '/Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 274.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: found Xing or Info header. Switching to frame mode... 
+ info: MPEG 1 Layer 3 - 44100 Hz - Joint Stereo - FRAME MODE - Total time: 20m.30s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 274_00m_00s__10m_00s.mp3" created
+   File "/Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 274_10m_00s__20m_00s.mp3" created
+   File "/Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 274_20m_00s__20m_30s_58h.mp3" created
+ Processed 47109 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 274_00m_00s__10m_00s.mp3
+
+=> init /Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 274_00m_00s__10m_00s.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/A\ State\ of\ Trance\ Official\ Podcast/A\ State\ of\ Trance\ Official\ Podcast\ Episode\ 274_00m_00s__10m_00s.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/A\ State\ of\ Trance\ Official\ Podcast/A\ State\ of\ Trance\ Official\ Podcast\ Episode\ 274_00m_00s__10m_00s.mp3
+>>>> /Users/hubertwong/temp/podcast/A\ State\ of\ Trance\ Official\ Podcast/A\ State\ of\ Trance\ Official\ Podcast\ Episode\ 274_00m_00s__10m_00s.mp3
+ Processing file '/Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 274_00m_00s__10m_00s.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: found Xing or Info header. Switching to frame mode... 
+ info: MPEG 1 Layer 3 - 44100 Hz - Joint Stereo - FRAME MODE - Total time: 10m.00s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 274_00m_00s__10m_00s_00m_00s__10m_00s.mp3" created
+ Processed 22970 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 274_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+
+=> init /Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 274_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/A\ State\ of\ Trance\ Official\ Podcast/A\ State\ of\ Trance\ Official\ Podcast\ Episode\ 274_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/A\ State\ of\ Trance\ Official\ Podcast/A\ State\ of\ Trance\ Official\ Podcast\ Episode\ 274_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+>>>> /Users/hubertwong/temp/podcast/A\ State\ of\ Trance\ Official\ Podcast/A\ State\ of\ Trance\ Official\ Podcast\ Episode\ 274_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+ Processing file '/Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 274_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: found Xing or Info header. Switching to frame mode... 
+ info: MPEG 1 Layer 3 - 44100 Hz - Joint Stereo - FRAME MODE - Total time: 10m.00s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 274_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3" created
+ Processed 22970 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 274_10m_00s__20m_00s.mp3
+
+=> init /Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 274_10m_00s__20m_00s.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/A\ State\ of\ Trance\ Official\ Podcast/A\ State\ of\ Trance\ Official\ Podcast\ Episode\ 274_10m_00s__20m_00s.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/A\ State\ of\ Trance\ Official\ Podcast/A\ State\ of\ Trance\ Official\ Podcast\ Episode\ 274_10m_00s__20m_00s.mp3
+>>>> /Users/hubertwong/temp/podcast/A\ State\ of\ Trance\ Official\ Podcast/A\ State\ of\ Trance\ Official\ Podcast\ Episode\ 274_10m_00s__20m_00s.mp3
+ Processing file '/Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 274_10m_00s__20m_00s.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: found Xing or Info header. Switching to frame mode... 
+ info: MPEG 1 Layer 3 - 44100 Hz - Joint Stereo - FRAME MODE - Total time: 10m.00s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 274_10m_00s__20m_00s_00m_00s__10m_00s.mp3" created
+ Processed 22969 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 274_10m_00s__20m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+
+=> init /Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 274_10m_00s__20m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/A\ State\ of\ Trance\ Official\ Podcast/A\ State\ of\ Trance\ Official\ Podcast\ Episode\ 274_10m_00s__20m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/A\ State\ of\ Trance\ Official\ Podcast/A\ State\ of\ Trance\ Official\ Podcast\ Episode\ 274_10m_00s__20m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+>>>> /Users/hubertwong/temp/podcast/A\ State\ of\ Trance\ Official\ Podcast/A\ State\ of\ Trance\ Official\ Podcast\ Episode\ 274_10m_00s__20m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+ Processing file '/Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 274_10m_00s__20m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: found Xing or Info header. Switching to frame mode... 
+ info: MPEG 1 Layer 3 - 44100 Hz - Joint Stereo - FRAME MODE - Total time: 10m.00s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 274_10m_00s__20m_00s_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3" created
+ Processed 22967 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 274_20m_00s__20m_30s_58h.mp3
+
+=> init /Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 274_20m_00s__20m_30s_58h.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/A\ State\ of\ Trance\ Official\ Podcast/A\ State\ of\ Trance\ Official\ Podcast\ Episode\ 274_20m_00s__20m_30s_58h.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/A\ State\ of\ Trance\ Official\ Podcast/A\ State\ of\ Trance\ Official\ Podcast\ Episode\ 274_20m_00s__20m_30s_58h.mp3
+>>>> /Users/hubertwong/temp/podcast/A\ State\ of\ Trance\ Official\ Podcast/A\ State\ of\ Trance\ Official\ Podcast\ Episode\ 274_20m_00s__20m_30s_58h.mp3
+ Processing file '/Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 274_20m_00s__20m_30s_58h.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: found Xing or Info header. Switching to frame mode... 
+ info: MPEG 1 Layer 3 - 44100 Hz - Joint Stereo - FRAME MODE - Total time: 0m.30s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 274_20m_00s__20m_30s_58h_00m_00s__00m_30s_65h.mp3" created
+ Processed 1170 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 274_20m_00s__20m_30s_58h_00m_00s__00m_30s_65h_00m_00s__00m_30s_59h.mp3
+
+=> init /Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 274_20m_00s__20m_30s_58h_00m_00s__00m_30s_65h_00m_00s__00m_30s_59h.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/A\ State\ of\ Trance\ Official\ Podcast/A\ State\ of\ Trance\ Official\ Podcast\ Episode\ 274_20m_00s__20m_30s_58h_00m_00s__00m_30s_65h_00m_00s__00m_30s_59h.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/A\ State\ of\ Trance\ Official\ Podcast/A\ State\ of\ Trance\ Official\ Podcast\ Episode\ 274_20m_00s__20m_30s_58h_00m_00s__00m_30s_65h_00m_00s__00m_30s_59h.mp3
+>>>> /Users/hubertwong/temp/podcast/A\ State\ of\ Trance\ Official\ Podcast/A\ State\ of\ Trance\ Official\ Podcast\ Episode\ 274_20m_00s__20m_30s_58h_00m_00s__00m_30s_65h_00m_00s__00m_30s_59h.mp3
+ Processing file '/Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 274_20m_00s__20m_30s_58h_00m_00s__00m_30s_65h_00m_00s__00m_30s_59h.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: found Xing or Info header. Switching to frame mode... 
+ info: MPEG 1 Layer 3 - 44100 Hz - Joint Stereo - FRAME MODE - Total time: 0m.30s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 274_20m_00s__20m_30s_58h_00m_00s__00m_30s_65h_00m_00s__00m_30s_59h_00m_00s__00m_30s_57h.mp3" created
+ Processed 1168 frames - Sync errors: 0
+ time split ok
+
+=> encoding [A State of Trance Official Podcast][A State of Trance Official Podcast Episode 275.m4a]
+
+=> init /Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 275.m4a
+
+=> init2 /Users/hubertwong/temp/podcast/A\ State\ of\ Trance\ Official\ Podcast/A\ State\ of\ Trance\ Official\ Podcast\ Episode\ 275.m4a
+
+=> init3 /Users/hubertwong/temp/podcast/A\ State\ of\ Trance\ Official\ Podcast/A\ State\ of\ Trance\ Official\ Podcast\ Episode\ 275.m4a
+
+=> init /Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 275.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/A\ State\ of\ Trance\ Official\ Podcast/A\ State\ of\ Trance\ Official\ Podcast\ Episode\ 275.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/A\ State\ of\ Trance\ Official\ Podcast/A\ State\ of\ Trance\ Official\ Podcast\ Episode\ 275.mp3
+=> src /Users/hubertwong/temp/podcast/A\ State\ of\ Trance\ Official\ Podcast/A\ State\ of\ Trance\ Official\ Podcast\ Episode\ 275.m4a
+=> dest /Users/hubertwong/temp/podcast/A\ State\ of\ Trance\ Official\ Podcast/A\ State\ of\ Trance\ Official\ Podcast\ Episode\ 275.mp3
+ Processing file '/Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 275.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: found Xing or Info header. Switching to frame mode... 
+ info: MPEG 1 Layer 3 - 44100 Hz - Joint Stereo - FRAME MODE - Total time: 24m.13s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 275_00m_00s__10m_00s.mp3" created
+   File "/Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 275_10m_00s__20m_00s.mp3" created
+   File "/Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 275_20m_00s__24m_13s_48h.mp3" created
+ Processed 55642 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 275_00m_00s__10m_00s.mp3
+
+=> init /Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 275_00m_00s__10m_00s.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/A\ State\ of\ Trance\ Official\ Podcast/A\ State\ of\ Trance\ Official\ Podcast\ Episode\ 275_00m_00s__10m_00s.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/A\ State\ of\ Trance\ Official\ Podcast/A\ State\ of\ Trance\ Official\ Podcast\ Episode\ 275_00m_00s__10m_00s.mp3
+>>>> /Users/hubertwong/temp/podcast/A\ State\ of\ Trance\ Official\ Podcast/A\ State\ of\ Trance\ Official\ Podcast\ Episode\ 275_00m_00s__10m_00s.mp3
+ Processing file '/Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 275_00m_00s__10m_00s.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: found Xing or Info header. Switching to frame mode... 
+ info: MPEG 1 Layer 3 - 44100 Hz - Joint Stereo - FRAME MODE - Total time: 10m.00s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 275_00m_00s__10m_00s_00m_00s__10m_00s.mp3" created
+ Processed 22970 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 275_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+
+=> init /Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 275_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/A\ State\ of\ Trance\ Official\ Podcast/A\ State\ of\ Trance\ Official\ Podcast\ Episode\ 275_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/A\ State\ of\ Trance\ Official\ Podcast/A\ State\ of\ Trance\ Official\ Podcast\ Episode\ 275_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+>>>> /Users/hubertwong/temp/podcast/A\ State\ of\ Trance\ Official\ Podcast/A\ State\ of\ Trance\ Official\ Podcast\ Episode\ 275_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+ Processing file '/Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 275_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: found Xing or Info header. Switching to frame mode... 
+ info: MPEG 1 Layer 3 - 44100 Hz - Joint Stereo - FRAME MODE - Total time: 10m.00s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 275_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3" created
+ Processed 22970 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 275_10m_00s__20m_00s.mp3
+
+=> init /Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 275_10m_00s__20m_00s.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/A\ State\ of\ Trance\ Official\ Podcast/A\ State\ of\ Trance\ Official\ Podcast\ Episode\ 275_10m_00s__20m_00s.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/A\ State\ of\ Trance\ Official\ Podcast/A\ State\ of\ Trance\ Official\ Podcast\ Episode\ 275_10m_00s__20m_00s.mp3
+>>>> /Users/hubertwong/temp/podcast/A\ State\ of\ Trance\ Official\ Podcast/A\ State\ of\ Trance\ Official\ Podcast\ Episode\ 275_10m_00s__20m_00s.mp3
+ Processing file '/Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 275_10m_00s__20m_00s.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: found Xing or Info header. Switching to frame mode... 
+ info: MPEG 1 Layer 3 - 44100 Hz - Joint Stereo - FRAME MODE - Total time: 10m.00s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 275_10m_00s__20m_00s_00m_00s__10m_00s.mp3" created
+ Processed 22969 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 275_10m_00s__20m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+
+=> init /Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 275_10m_00s__20m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/A\ State\ of\ Trance\ Official\ Podcast/A\ State\ of\ Trance\ Official\ Podcast\ Episode\ 275_10m_00s__20m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/A\ State\ of\ Trance\ Official\ Podcast/A\ State\ of\ Trance\ Official\ Podcast\ Episode\ 275_10m_00s__20m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+>>>> /Users/hubertwong/temp/podcast/A\ State\ of\ Trance\ Official\ Podcast/A\ State\ of\ Trance\ Official\ Podcast\ Episode\ 275_10m_00s__20m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+ Processing file '/Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 275_10m_00s__20m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: found Xing or Info header. Switching to frame mode... 
+ info: MPEG 1 Layer 3 - 44100 Hz - Joint Stereo - FRAME MODE - Total time: 10m.00s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 275_10m_00s__20m_00s_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3" created
+ Processed 22967 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 275_20m_00s__24m_13s_48h.mp3
+
+=> init /Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 275_20m_00s__24m_13s_48h.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/A\ State\ of\ Trance\ Official\ Podcast/A\ State\ of\ Trance\ Official\ Podcast\ Episode\ 275_20m_00s__24m_13s_48h.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/A\ State\ of\ Trance\ Official\ Podcast/A\ State\ of\ Trance\ Official\ Podcast\ Episode\ 275_20m_00s__24m_13s_48h.mp3
+>>>> /Users/hubertwong/temp/podcast/A\ State\ of\ Trance\ Official\ Podcast/A\ State\ of\ Trance\ Official\ Podcast\ Episode\ 275_20m_00s__24m_13s_48h.mp3
+ Processing file '/Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 275_20m_00s__24m_13s_48h.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: found Xing or Info header. Switching to frame mode... 
+ info: MPEG 1 Layer 3 - 44100 Hz - Joint Stereo - FRAME MODE - Total time: 4m.13s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 275_20m_00s__24m_13s_48h_00m_00s__04m_13s_55h.mp3" created
+ Processed 9703 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 275_20m_00s__24m_13s_48h_00m_00s__04m_13s_55h_00m_00s__04m_13s_50h.mp3
+
+=> init /Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 275_20m_00s__24m_13s_48h_00m_00s__04m_13s_55h_00m_00s__04m_13s_50h.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/A\ State\ of\ Trance\ Official\ Podcast/A\ State\ of\ Trance\ Official\ Podcast\ Episode\ 275_20m_00s__24m_13s_48h_00m_00s__04m_13s_55h_00m_00s__04m_13s_50h.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/A\ State\ of\ Trance\ Official\ Podcast/A\ State\ of\ Trance\ Official\ Podcast\ Episode\ 275_20m_00s__24m_13s_48h_00m_00s__04m_13s_55h_00m_00s__04m_13s_50h.mp3
+>>>> /Users/hubertwong/temp/podcast/A\ State\ of\ Trance\ Official\ Podcast/A\ State\ of\ Trance\ Official\ Podcast\ Episode\ 275_20m_00s__24m_13s_48h_00m_00s__04m_13s_55h_00m_00s__04m_13s_50h.mp3
+ Processing file '/Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 275_20m_00s__24m_13s_48h_00m_00s__04m_13s_55h_00m_00s__04m_13s_50h.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: found Xing or Info header. Switching to frame mode... 
+ info: MPEG 1 Layer 3 - 44100 Hz - Joint Stereo - FRAME MODE - Total time: 4m.13s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 275_20m_00s__24m_13s_48h_00m_00s__04m_13s_55h_00m_00s__04m_13s_50h_00m_00s__04m_13s_47h.mp3" created
+ Processed 9701 frames - Sync errors: 0
+ time split ok
+
+=> encoding [A State of Trance Official Podcast][A State of Trance Official Podcast Episode 276.m4a]
+
+=> init /Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 276.m4a
+
+=> init2 /Users/hubertwong/temp/podcast/A\ State\ of\ Trance\ Official\ Podcast/A\ State\ of\ Trance\ Official\ Podcast\ Episode\ 276.m4a
+
+=> init3 /Users/hubertwong/temp/podcast/A\ State\ of\ Trance\ Official\ Podcast/A\ State\ of\ Trance\ Official\ Podcast\ Episode\ 276.m4a
+
+=> init /Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 276.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/A\ State\ of\ Trance\ Official\ Podcast/A\ State\ of\ Trance\ Official\ Podcast\ Episode\ 276.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/A\ State\ of\ Trance\ Official\ Podcast/A\ State\ of\ Trance\ Official\ Podcast\ Episode\ 276.mp3
+=> src /Users/hubertwong/temp/podcast/A\ State\ of\ Trance\ Official\ Podcast/A\ State\ of\ Trance\ Official\ Podcast\ Episode\ 276.m4a
+=> dest /Users/hubertwong/temp/podcast/A\ State\ of\ Trance\ Official\ Podcast/A\ State\ of\ Trance\ Official\ Podcast\ Episode\ 276.mp3
+ Processing file '/Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 276.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: found Xing or Info header. Switching to frame mode... 
+ info: MPEG 1 Layer 3 - 44100 Hz - Joint Stereo - FRAME MODE - Total time: 24m.06s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 276_00m_00s__10m_00s.mp3" created
+   File "/Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 276_10m_00s__20m_00s.mp3" created
+   File "/Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 276_20m_00s__24m_06s_06h.mp3" created
+ Processed 55358 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 276_00m_00s__10m_00s.mp3
+
+=> init /Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 276_00m_00s__10m_00s.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/A\ State\ of\ Trance\ Official\ Podcast/A\ State\ of\ Trance\ Official\ Podcast\ Episode\ 276_00m_00s__10m_00s.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/A\ State\ of\ Trance\ Official\ Podcast/A\ State\ of\ Trance\ Official\ Podcast\ Episode\ 276_00m_00s__10m_00s.mp3
+>>>> /Users/hubertwong/temp/podcast/A\ State\ of\ Trance\ Official\ Podcast/A\ State\ of\ Trance\ Official\ Podcast\ Episode\ 276_00m_00s__10m_00s.mp3
+ Processing file '/Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 276_00m_00s__10m_00s.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: found Xing or Info header. Switching to frame mode... 
+ info: MPEG 1 Layer 3 - 44100 Hz - Joint Stereo - FRAME MODE - Total time: 10m.00s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 276_00m_00s__10m_00s_00m_00s__10m_00s.mp3" created
+ Processed 22970 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 276_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+
+=> init /Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 276_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/A\ State\ of\ Trance\ Official\ Podcast/A\ State\ of\ Trance\ Official\ Podcast\ Episode\ 276_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/A\ State\ of\ Trance\ Official\ Podcast/A\ State\ of\ Trance\ Official\ Podcast\ Episode\ 276_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+>>>> /Users/hubertwong/temp/podcast/A\ State\ of\ Trance\ Official\ Podcast/A\ State\ of\ Trance\ Official\ Podcast\ Episode\ 276_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+ Processing file '/Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 276_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: found Xing or Info header. Switching to frame mode... 
+ info: MPEG 1 Layer 3 - 44100 Hz - Joint Stereo - FRAME MODE - Total time: 10m.00s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 276_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3" created
+ Processed 22970 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 276_10m_00s__20m_00s.mp3
+
+=> init /Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 276_10m_00s__20m_00s.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/A\ State\ of\ Trance\ Official\ Podcast/A\ State\ of\ Trance\ Official\ Podcast\ Episode\ 276_10m_00s__20m_00s.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/A\ State\ of\ Trance\ Official\ Podcast/A\ State\ of\ Trance\ Official\ Podcast\ Episode\ 276_10m_00s__20m_00s.mp3
+>>>> /Users/hubertwong/temp/podcast/A\ State\ of\ Trance\ Official\ Podcast/A\ State\ of\ Trance\ Official\ Podcast\ Episode\ 276_10m_00s__20m_00s.mp3
+ Processing file '/Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 276_10m_00s__20m_00s.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: found Xing or Info header. Switching to frame mode... 
+ info: MPEG 1 Layer 3 - 44100 Hz - Joint Stereo - FRAME MODE - Total time: 10m.00s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 276_10m_00s__20m_00s_00m_00s__10m_00s.mp3" created
+ Processed 22969 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 276_10m_00s__20m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+
+=> init /Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 276_10m_00s__20m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/A\ State\ of\ Trance\ Official\ Podcast/A\ State\ of\ Trance\ Official\ Podcast\ Episode\ 276_10m_00s__20m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/A\ State\ of\ Trance\ Official\ Podcast/A\ State\ of\ Trance\ Official\ Podcast\ Episode\ 276_10m_00s__20m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+>>>> /Users/hubertwong/temp/podcast/A\ State\ of\ Trance\ Official\ Podcast/A\ State\ of\ Trance\ Official\ Podcast\ Episode\ 276_10m_00s__20m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+ Processing file '/Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 276_10m_00s__20m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: found Xing or Info header. Switching to frame mode... 
+ info: MPEG 1 Layer 3 - 44100 Hz - Joint Stereo - FRAME MODE - Total time: 10m.00s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 276_10m_00s__20m_00s_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3" created
+ Processed 22967 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 276_20m_00s__24m_06s_06h.mp3
+
+=> init /Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 276_20m_00s__24m_06s_06h.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/A\ State\ of\ Trance\ Official\ Podcast/A\ State\ of\ Trance\ Official\ Podcast\ Episode\ 276_20m_00s__24m_06s_06h.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/A\ State\ of\ Trance\ Official\ Podcast/A\ State\ of\ Trance\ Official\ Podcast\ Episode\ 276_20m_00s__24m_06s_06h.mp3
+>>>> /Users/hubertwong/temp/podcast/A\ State\ of\ Trance\ Official\ Podcast/A\ State\ of\ Trance\ Official\ Podcast\ Episode\ 276_20m_00s__24m_06s_06h.mp3
+ Processing file '/Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 276_20m_00s__24m_06s_06h.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: found Xing or Info header. Switching to frame mode... 
+ info: MPEG 1 Layer 3 - 44100 Hz - Joint Stereo - FRAME MODE - Total time: 4m.06s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 276_20m_00s__24m_06s_06h_00m_00s__04m_06s_13h.mp3" created
+ Processed 9419 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 276_20m_00s__24m_06s_06h_00m_00s__04m_06s_13h_00m_00s__04m_06s_08h.mp3
+
+=> init /Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 276_20m_00s__24m_06s_06h_00m_00s__04m_06s_13h_00m_00s__04m_06s_08h.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/A\ State\ of\ Trance\ Official\ Podcast/A\ State\ of\ Trance\ Official\ Podcast\ Episode\ 276_20m_00s__24m_06s_06h_00m_00s__04m_06s_13h_00m_00s__04m_06s_08h.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/A\ State\ of\ Trance\ Official\ Podcast/A\ State\ of\ Trance\ Official\ Podcast\ Episode\ 276_20m_00s__24m_06s_06h_00m_00s__04m_06s_13h_00m_00s__04m_06s_08h.mp3
+>>>> /Users/hubertwong/temp/podcast/A\ State\ of\ Trance\ Official\ Podcast/A\ State\ of\ Trance\ Official\ Podcast\ Episode\ 276_20m_00s__24m_06s_06h_00m_00s__04m_06s_13h_00m_00s__04m_06s_08h.mp3
+ Processing file '/Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 276_20m_00s__24m_06s_06h_00m_00s__04m_06s_13h_00m_00s__04m_06s_08h.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: found Xing or Info header. Switching to frame mode... 
+ info: MPEG 1 Layer 3 - 44100 Hz - Joint Stereo - FRAME MODE - Total time: 4m.06s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/A State of Trance Official Podcast/A State of Trance Official Podcast Episode 276_20m_00s__24m_06s_06h_00m_00s__04m_06s_13h_00m_00s__04m_06s_08h_00m_00s__04m_06s_05h.mp3" created
+ Processed 9417 frames - Sync errors: 0
+ time split ok
+
+=> at /Users/hubertwong/temp/podcast/Above & Beyond_ Group Therapy
+>>> /Users/hubertwong/temp/podcast/Above & Beyond_ Group Therapy/32 #032 Group Therapy Radio with Above & Beyond.mp3
+
+=> init /Users/hubertwong/temp/podcast/Above & Beyond_ Group Therapy/32 #032 Group Therapy Radio with Above & Beyond.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/Above\ &\ Beyond_\ Group\ Therapy/32\ #032\ Group\ Therapy\ Radio\ with\ Above\ &\ Beyond.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/Above\ &\ Beyond_\ Group\ Therapy/32\ #032\ Group\ Therapy\ Radio\ with\ Above\ &\ Beyond.mp3
+>>>> /Users/hubertwong/temp/podcast/Above\ &\ Beyond_\ Group\ Therapy/32\ #032\ Group\ Therapy\ Radio\ with\ Above\ &\ Beyond.mp3
+ Processing file '/Users/hubertwong/temp/podcast/Above ' ...
+>>> /Users/hubertwong/temp/podcast/Above & Beyond_ Group Therapy/33 #033 Group Therapy Radio with Above & Beyond.mp3
+
+=> init /Users/hubertwong/temp/podcast/Above & Beyond_ Group Therapy/33 #033 Group Therapy Radio with Above & Beyond.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/Above\ &\ Beyond_\ Group\ Therapy/33\ #033\ Group\ Therapy\ Radio\ with\ Above\ &\ Beyond.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/Above\ &\ Beyond_\ Group\ Therapy/33\ #033\ Group\ Therapy\ Radio\ with\ Above\ &\ Beyond.mp3
+>>>> /Users/hubertwong/temp/podcast/Above\ &\ Beyond_\ Group\ Therapy/33\ #033\ Group\ Therapy\ Radio\ with\ Above\ &\ Beyond.mp3
+ Processing file '/Users/hubertwong/temp/podcast/Above ' ...
+>>> /Users/hubertwong/temp/podcast/Above & Beyond_ Group Therapy/34 #034 Group Therapy Radio with Above & Beyond.mp3
+
+=> init /Users/hubertwong/temp/podcast/Above & Beyond_ Group Therapy/34 #034 Group Therapy Radio with Above & Beyond.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/Above\ &\ Beyond_\ Group\ Therapy/34\ #034\ Group\ Therapy\ Radio\ with\ Above\ &\ Beyond.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/Above\ &\ Beyond_\ Group\ Therapy/34\ #034\ Group\ Therapy\ Radio\ with\ Above\ &\ Beyond.mp3
+>>>> /Users/hubertwong/temp/podcast/Above\ &\ Beyond_\ Group\ Therapy/34\ #034\ Group\ Therapy\ Radio\ with\ Above\ &\ Beyond.mp3
+ Processing file '/Users/hubertwong/temp/podcast/Above ' ...
+
+=> at /Users/hubertwong/temp/podcast/APM_ Marketplace
+>>> /Users/hubertwong/temp/podcast/APM_ Marketplace/06-26-13 Marketplace.mp3
+
+=> init /Users/hubertwong/temp/podcast/APM_ Marketplace/06-26-13 Marketplace.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/APM_\ Marketplace/06-26-13\ Marketplace.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/APM_\ Marketplace/06-26-13\ Marketplace.mp3
+>>>> /Users/hubertwong/temp/podcast/APM_\ Marketplace/06-26-13\ Marketplace.mp3
+ Processing file '/Users/hubertwong/temp/podcast/APM_ Marketplace/06-26-13 Marketplace.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: MPEG 1 Layer 3 - 44100 Hz - Mono - FRAME MODE - Total time: 27m.25s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/APM_ Marketplace/06-26-13 Marketplace_00m_00s__10m_00s.mp3" created
+   File "/Users/hubertwong/temp/podcast/APM_ Marketplace/06-26-13 Marketplace_10m_00s__20m_00s.mp3" created
+   File "/Users/hubertwong/temp/podcast/APM_ Marketplace/06-26-13 Marketplace_20m_00s__27m_25s_74h.mp3" created
+ Processed 63002 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/APM_ Marketplace/06-26-13 Marketplace_00m_00s__10m_00s.mp3
+
+=> init /Users/hubertwong/temp/podcast/APM_ Marketplace/06-26-13 Marketplace_00m_00s__10m_00s.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/APM_\ Marketplace/06-26-13\ Marketplace_00m_00s__10m_00s.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/APM_\ Marketplace/06-26-13\ Marketplace_00m_00s__10m_00s.mp3
+>>>> /Users/hubertwong/temp/podcast/APM_\ Marketplace/06-26-13\ Marketplace_00m_00s__10m_00s.mp3
+ Processing file '/Users/hubertwong/temp/podcast/APM_ Marketplace/06-26-13 Marketplace_00m_00s__10m_00s.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: MPEG 1 Layer 3 - 44100 Hz - Mono - FRAME MODE - Total time: 10m.00s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/APM_ Marketplace/06-26-13 Marketplace_00m_00s__10m_00s_00m_00s__10m_00s.mp3" created
+ Processed 22970 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/APM_ Marketplace/06-26-13 Marketplace_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+
+=> init /Users/hubertwong/temp/podcast/APM_ Marketplace/06-26-13 Marketplace_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/APM_\ Marketplace/06-26-13\ Marketplace_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/APM_\ Marketplace/06-26-13\ Marketplace_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+>>>> /Users/hubertwong/temp/podcast/APM_\ Marketplace/06-26-13\ Marketplace_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+ Processing file '/Users/hubertwong/temp/podcast/APM_ Marketplace/06-26-13 Marketplace_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: MPEG 1 Layer 3 - 44100 Hz - Mono - FRAME MODE - Total time: 10m.00s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/APM_ Marketplace/06-26-13 Marketplace_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3" created
+ Processed 22970 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/APM_ Marketplace/06-26-13 Marketplace_10m_00s__20m_00s.mp3
+
+=> init /Users/hubertwong/temp/podcast/APM_ Marketplace/06-26-13 Marketplace_10m_00s__20m_00s.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/APM_\ Marketplace/06-26-13\ Marketplace_10m_00s__20m_00s.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/APM_\ Marketplace/06-26-13\ Marketplace_10m_00s__20m_00s.mp3
+>>>> /Users/hubertwong/temp/podcast/APM_\ Marketplace/06-26-13\ Marketplace_10m_00s__20m_00s.mp3
+ Processing file '/Users/hubertwong/temp/podcast/APM_ Marketplace/06-26-13 Marketplace_10m_00s__20m_00s.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: MPEG 1 Layer 3 - 44100 Hz - Mono - FRAME MODE - Total time: 9m.59s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/APM_ Marketplace/06-26-13 Marketplace_10m_00s__20m_00s_00m_00s__09m_59s_92h.mp3" created
+ Processed 22967 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/APM_ Marketplace/06-26-13 Marketplace_10m_00s__20m_00s_00m_00s__09m_59s_92h_00m_00s__09m_59s_84h.mp3
+
+=> init /Users/hubertwong/temp/podcast/APM_ Marketplace/06-26-13 Marketplace_10m_00s__20m_00s_00m_00s__09m_59s_92h_00m_00s__09m_59s_84h.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/APM_\ Marketplace/06-26-13\ Marketplace_10m_00s__20m_00s_00m_00s__09m_59s_92h_00m_00s__09m_59s_84h.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/APM_\ Marketplace/06-26-13\ Marketplace_10m_00s__20m_00s_00m_00s__09m_59s_92h_00m_00s__09m_59s_84h.mp3
+>>>> /Users/hubertwong/temp/podcast/APM_\ Marketplace/06-26-13\ Marketplace_10m_00s__20m_00s_00m_00s__09m_59s_92h_00m_00s__09m_59s_84h.mp3
+ Processing file '/Users/hubertwong/temp/podcast/APM_ Marketplace/06-26-13 Marketplace_10m_00s__20m_00s_00m_00s__09m_59s_92h_00m_00s__09m_59s_84h.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: MPEG 1 Layer 3 - 44100 Hz - Mono - FRAME MODE - Total time: 9m.59s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/APM_ Marketplace/06-26-13 Marketplace_10m_00s__20m_00s_00m_00s__09m_59s_92h_00m_00s__09m_59s_84h_00m_00s__09m_59s_77h.mp3" created
+ Processed 22961 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/APM_ Marketplace/06-26-13 Marketplace_20m_00s__27m_25s_74h.mp3
+
+=> init /Users/hubertwong/temp/podcast/APM_ Marketplace/06-26-13 Marketplace_20m_00s__27m_25s_74h.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/APM_\ Marketplace/06-26-13\ Marketplace_20m_00s__27m_25s_74h.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/APM_\ Marketplace/06-26-13\ Marketplace_20m_00s__27m_25s_74h.mp3
+>>>> /Users/hubertwong/temp/podcast/APM_\ Marketplace/06-26-13\ Marketplace_20m_00s__27m_25s_74h.mp3
+ Processing file '/Users/hubertwong/temp/podcast/APM_ Marketplace/06-26-13 Marketplace_20m_00s__27m_25s_74h.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: MPEG 1 Layer 3 - 44100 Hz - Mono - FRAME MODE - Total time: 7m.25s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/APM_ Marketplace/06-26-13 Marketplace_20m_00s__27m_25s_74h_00m_00s__07m_25s_64h.mp3" created
+ Processed 17061 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/APM_ Marketplace/06-26-13 Marketplace_20m_00s__27m_25s_74h_00m_00s__07m_25s_64h_00m_00s__07m_25s_59h.mp3
+
+=> init /Users/hubertwong/temp/podcast/APM_ Marketplace/06-26-13 Marketplace_20m_00s__27m_25s_74h_00m_00s__07m_25s_64h_00m_00s__07m_25s_59h.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/APM_\ Marketplace/06-26-13\ Marketplace_20m_00s__27m_25s_74h_00m_00s__07m_25s_64h_00m_00s__07m_25s_59h.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/APM_\ Marketplace/06-26-13\ Marketplace_20m_00s__27m_25s_74h_00m_00s__07m_25s_64h_00m_00s__07m_25s_59h.mp3
+>>>> /Users/hubertwong/temp/podcast/APM_\ Marketplace/06-26-13\ Marketplace_20m_00s__27m_25s_74h_00m_00s__07m_25s_64h_00m_00s__07m_25s_59h.mp3
+ Processing file '/Users/hubertwong/temp/podcast/APM_ Marketplace/06-26-13 Marketplace_20m_00s__27m_25s_74h_00m_00s__07m_25s_64h_00m_00s__07m_25s_59h.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: MPEG 1 Layer 3 - 44100 Hz - Mono - FRAME MODE - Total time: 7m.25s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/APM_ Marketplace/06-26-13 Marketplace_20m_00s__27m_25s_74h_00m_00s__07m_25s_64h_00m_00s__07m_25s_59h_00m_00s__07m_25s_51h.mp3" created
+ Processed 17056 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/APM_ Marketplace/06-27-13 Marketplace.mp3
+
+=> init /Users/hubertwong/temp/podcast/APM_ Marketplace/06-27-13 Marketplace.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/APM_\ Marketplace/06-27-13\ Marketplace.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/APM_\ Marketplace/06-27-13\ Marketplace.mp3
+>>>> /Users/hubertwong/temp/podcast/APM_\ Marketplace/06-27-13\ Marketplace.mp3
+ Processing file '/Users/hubertwong/temp/podcast/APM_ Marketplace/06-27-13 Marketplace.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: MPEG 1 Layer 3 - 44100 Hz - Mono - FRAME MODE - Total time: 27m.05s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/APM_ Marketplace/06-27-13 Marketplace_00m_00s__10m_00s.mp3" created
+   File "/Users/hubertwong/temp/podcast/APM_ Marketplace/06-27-13 Marketplace_10m_00s__20m_00s.mp3" created
+   File "/Users/hubertwong/temp/podcast/APM_ Marketplace/06-27-13 Marketplace_20m_00s__27m_05s_39h.mp3" created
+ Processed 62223 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/APM_ Marketplace/06-27-13 Marketplace_00m_00s__10m_00s.mp3
+
+=> init /Users/hubertwong/temp/podcast/APM_ Marketplace/06-27-13 Marketplace_00m_00s__10m_00s.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/APM_\ Marketplace/06-27-13\ Marketplace_00m_00s__10m_00s.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/APM_\ Marketplace/06-27-13\ Marketplace_00m_00s__10m_00s.mp3
+>>>> /Users/hubertwong/temp/podcast/APM_\ Marketplace/06-27-13\ Marketplace_00m_00s__10m_00s.mp3
+ Processing file '/Users/hubertwong/temp/podcast/APM_ Marketplace/06-27-13 Marketplace_00m_00s__10m_00s.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: MPEG 1 Layer 3 - 44100 Hz - Mono - FRAME MODE - Total time: 10m.00s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/APM_ Marketplace/06-27-13 Marketplace_00m_00s__10m_00s_00m_00s__10m_00s.mp3" created
+ Processed 22970 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/APM_ Marketplace/06-27-13 Marketplace_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+
+=> init /Users/hubertwong/temp/podcast/APM_ Marketplace/06-27-13 Marketplace_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/APM_\ Marketplace/06-27-13\ Marketplace_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/APM_\ Marketplace/06-27-13\ Marketplace_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+>>>> /Users/hubertwong/temp/podcast/APM_\ Marketplace/06-27-13\ Marketplace_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+ Processing file '/Users/hubertwong/temp/podcast/APM_ Marketplace/06-27-13 Marketplace_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: MPEG 1 Layer 3 - 44100 Hz - Mono - FRAME MODE - Total time: 10m.00s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/APM_ Marketplace/06-27-13 Marketplace_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3" created
+ Processed 22970 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/APM_ Marketplace/06-27-13 Marketplace_10m_00s__20m_00s.mp3
+
+=> init /Users/hubertwong/temp/podcast/APM_ Marketplace/06-27-13 Marketplace_10m_00s__20m_00s.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/APM_\ Marketplace/06-27-13\ Marketplace_10m_00s__20m_00s.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/APM_\ Marketplace/06-27-13\ Marketplace_10m_00s__20m_00s.mp3
+>>>> /Users/hubertwong/temp/podcast/APM_\ Marketplace/06-27-13\ Marketplace_10m_00s__20m_00s.mp3
+ Processing file '/Users/hubertwong/temp/podcast/APM_ Marketplace/06-27-13 Marketplace_10m_00s__20m_00s.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: MPEG 1 Layer 3 - 44100 Hz - Mono - FRAME MODE - Total time: 9m.59s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/APM_ Marketplace/06-27-13 Marketplace_10m_00s__20m_00s_00m_00s__09m_59s_92h.mp3" created
+ Processed 22967 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/APM_ Marketplace/06-27-13 Marketplace_10m_00s__20m_00s_00m_00s__09m_59s_92h_00m_00s__09m_59s_84h.mp3
+
+=> init /Users/hubertwong/temp/podcast/APM_ Marketplace/06-27-13 Marketplace_10m_00s__20m_00s_00m_00s__09m_59s_92h_00m_00s__09m_59s_84h.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/APM_\ Marketplace/06-27-13\ Marketplace_10m_00s__20m_00s_00m_00s__09m_59s_92h_00m_00s__09m_59s_84h.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/APM_\ Marketplace/06-27-13\ Marketplace_10m_00s__20m_00s_00m_00s__09m_59s_92h_00m_00s__09m_59s_84h.mp3
+>>>> /Users/hubertwong/temp/podcast/APM_\ Marketplace/06-27-13\ Marketplace_10m_00s__20m_00s_00m_00s__09m_59s_92h_00m_00s__09m_59s_84h.mp3
+ Processing file '/Users/hubertwong/temp/podcast/APM_ Marketplace/06-27-13 Marketplace_10m_00s__20m_00s_00m_00s__09m_59s_92h_00m_00s__09m_59s_84h.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: MPEG 1 Layer 3 - 44100 Hz - Mono - FRAME MODE - Total time: 9m.59s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/APM_ Marketplace/06-27-13 Marketplace_10m_00s__20m_00s_00m_00s__09m_59s_92h_00m_00s__09m_59s_84h_00m_00s__09m_59s_77h.mp3" created
+ Processed 22961 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/APM_ Marketplace/06-27-13 Marketplace_20m_00s__27m_05s_39h.mp3
+
+=> init /Users/hubertwong/temp/podcast/APM_ Marketplace/06-27-13 Marketplace_20m_00s__27m_05s_39h.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/APM_\ Marketplace/06-27-13\ Marketplace_20m_00s__27m_05s_39h.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/APM_\ Marketplace/06-27-13\ Marketplace_20m_00s__27m_05s_39h.mp3
+>>>> /Users/hubertwong/temp/podcast/APM_\ Marketplace/06-27-13\ Marketplace_20m_00s__27m_05s_39h.mp3
+ Processing file '/Users/hubertwong/temp/podcast/APM_ Marketplace/06-27-13 Marketplace_20m_00s__27m_05s_39h.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: MPEG 1 Layer 3 - 44100 Hz - Mono - FRAME MODE - Total time: 7m.05s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/APM_ Marketplace/06-27-13 Marketplace_20m_00s__27m_05s_39h_00m_00s__07m_05s_29h.mp3" created
+ Processed 16282 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/APM_ Marketplace/06-27-13 Marketplace_20m_00s__27m_05s_39h_00m_00s__07m_05s_29h_00m_00s__07m_05s_24h.mp3
+
+=> init /Users/hubertwong/temp/podcast/APM_ Marketplace/06-27-13 Marketplace_20m_00s__27m_05s_39h_00m_00s__07m_05s_29h_00m_00s__07m_05s_24h.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/APM_\ Marketplace/06-27-13\ Marketplace_20m_00s__27m_05s_39h_00m_00s__07m_05s_29h_00m_00s__07m_05s_24h.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/APM_\ Marketplace/06-27-13\ Marketplace_20m_00s__27m_05s_39h_00m_00s__07m_05s_29h_00m_00s__07m_05s_24h.mp3
+>>>> /Users/hubertwong/temp/podcast/APM_\ Marketplace/06-27-13\ Marketplace_20m_00s__27m_05s_39h_00m_00s__07m_05s_29h_00m_00s__07m_05s_24h.mp3
+ Processing file '/Users/hubertwong/temp/podcast/APM_ Marketplace/06-27-13 Marketplace_20m_00s__27m_05s_39h_00m_00s__07m_05s_29h_00m_00s__07m_05s_24h.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: MPEG 1 Layer 3 - 44100 Hz - Mono - FRAME MODE - Total time: 7m.05s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/APM_ Marketplace/06-27-13 Marketplace_20m_00s__27m_05s_39h_00m_00s__07m_05s_29h_00m_00s__07m_05s_24h_00m_00s__07m_05s_19h.mp3" created
+ Processed 16278 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/APM_ Marketplace/06-28-13 Marketplace.mp3
+
+=> init /Users/hubertwong/temp/podcast/APM_ Marketplace/06-28-13 Marketplace.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/APM_\ Marketplace/06-28-13\ Marketplace.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/APM_\ Marketplace/06-28-13\ Marketplace.mp3
+>>>> /Users/hubertwong/temp/podcast/APM_\ Marketplace/06-28-13\ Marketplace.mp3
+ Processing file '/Users/hubertwong/temp/podcast/APM_ Marketplace/06-28-13 Marketplace.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: MPEG 1 Layer 3 - 44100 Hz - Mono - FRAME MODE - Total time: 27m.31s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/APM_ Marketplace/06-28-13 Marketplace_00m_00s__10m_00s.mp3" created
+   File "/Users/hubertwong/temp/podcast/APM_ Marketplace/06-28-13 Marketplace_10m_00s__20m_00s.mp3" created
+   File "/Users/hubertwong/temp/podcast/APM_ Marketplace/06-28-13 Marketplace_20m_00s__27m_31s_50h.mp3" created
+ Processed 63084 frames - Sync errors: 1
+ time split ok
+>>> /Users/hubertwong/temp/podcast/APM_ Marketplace/06-28-13 Marketplace_00m_00s__10m_00s.mp3
+
+=> init /Users/hubertwong/temp/podcast/APM_ Marketplace/06-28-13 Marketplace_00m_00s__10m_00s.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/APM_\ Marketplace/06-28-13\ Marketplace_00m_00s__10m_00s.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/APM_\ Marketplace/06-28-13\ Marketplace_00m_00s__10m_00s.mp3
+>>>> /Users/hubertwong/temp/podcast/APM_\ Marketplace/06-28-13\ Marketplace_00m_00s__10m_00s.mp3
+ Processing file '/Users/hubertwong/temp/podcast/APM_ Marketplace/06-28-13 Marketplace_00m_00s__10m_00s.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: MPEG 1 Layer 3 - 44100 Hz - Mono - FRAME MODE - Total time: 9m.59s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/APM_ Marketplace/06-28-13 Marketplace_00m_00s__10m_00s_00m_00s__09m_59s_95h.mp3" created
+ Processed 22968 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/APM_ Marketplace/06-28-13 Marketplace_00m_00s__10m_00s_00m_00s__09m_59s_95h_00m_00s__09m_59s_95h.mp3
+
+=> init /Users/hubertwong/temp/podcast/APM_ Marketplace/06-28-13 Marketplace_00m_00s__10m_00s_00m_00s__09m_59s_95h_00m_00s__09m_59s_95h.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/APM_\ Marketplace/06-28-13\ Marketplace_00m_00s__10m_00s_00m_00s__09m_59s_95h_00m_00s__09m_59s_95h.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/APM_\ Marketplace/06-28-13\ Marketplace_00m_00s__10m_00s_00m_00s__09m_59s_95h_00m_00s__09m_59s_95h.mp3
+>>>> /Users/hubertwong/temp/podcast/APM_\ Marketplace/06-28-13\ Marketplace_00m_00s__10m_00s_00m_00s__09m_59s_95h_00m_00s__09m_59s_95h.mp3
+ Processing file '/Users/hubertwong/temp/podcast/APM_ Marketplace/06-28-13 Marketplace_00m_00s__10m_00s_00m_00s__09m_59s_95h_00m_00s__09m_59s_95h.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: MPEG 1 Layer 3 - 44100 Hz - Mono - FRAME MODE - Total time: 9m.59s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/APM_ Marketplace/06-28-13 Marketplace_00m_00s__10m_00s_00m_00s__09m_59s_95h_00m_00s__09m_59s_95h_00m_00s__09m_59s_95h.mp3" created
+ Processed 22968 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/APM_ Marketplace/06-28-13 Marketplace_10m_00s__20m_00s.mp3
+
+=> init /Users/hubertwong/temp/podcast/APM_ Marketplace/06-28-13 Marketplace_10m_00s__20m_00s.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/APM_\ Marketplace/06-28-13\ Marketplace_10m_00s__20m_00s.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/APM_\ Marketplace/06-28-13\ Marketplace_10m_00s__20m_00s.mp3
+>>>> /Users/hubertwong/temp/podcast/APM_\ Marketplace/06-28-13\ Marketplace_10m_00s__20m_00s.mp3
+ Processing file '/Users/hubertwong/temp/podcast/APM_ Marketplace/06-28-13 Marketplace_10m_00s__20m_00s.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: MPEG 1 Layer 3 - 44100 Hz - Mono - FRAME MODE - Total time: 9m.59s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/APM_ Marketplace/06-28-13 Marketplace_10m_00s__20m_00s_00m_00s__09m_59s_92h.mp3" created
+ Processed 22967 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/APM_ Marketplace/06-28-13 Marketplace_10m_00s__20m_00s_00m_00s__09m_59s_92h_00m_00s__09m_59s_84h.mp3
+
+=> init /Users/hubertwong/temp/podcast/APM_ Marketplace/06-28-13 Marketplace_10m_00s__20m_00s_00m_00s__09m_59s_92h_00m_00s__09m_59s_84h.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/APM_\ Marketplace/06-28-13\ Marketplace_10m_00s__20m_00s_00m_00s__09m_59s_92h_00m_00s__09m_59s_84h.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/APM_\ Marketplace/06-28-13\ Marketplace_10m_00s__20m_00s_00m_00s__09m_59s_92h_00m_00s__09m_59s_84h.mp3
+>>>> /Users/hubertwong/temp/podcast/APM_\ Marketplace/06-28-13\ Marketplace_10m_00s__20m_00s_00m_00s__09m_59s_92h_00m_00s__09m_59s_84h.mp3
+ Processing file '/Users/hubertwong/temp/podcast/APM_ Marketplace/06-28-13 Marketplace_10m_00s__20m_00s_00m_00s__09m_59s_92h_00m_00s__09m_59s_84h.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: MPEG 1 Layer 3 - 44100 Hz - Mono - FRAME MODE - Total time: 9m.59s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/APM_ Marketplace/06-28-13 Marketplace_10m_00s__20m_00s_00m_00s__09m_59s_92h_00m_00s__09m_59s_84h_00m_00s__09m_59s_77h.mp3" created
+ Processed 22961 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/APM_ Marketplace/06-28-13 Marketplace_20m_00s__27m_31s_50h.mp3
+
+=> init /Users/hubertwong/temp/podcast/APM_ Marketplace/06-28-13 Marketplace_20m_00s__27m_31s_50h.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/APM_\ Marketplace/06-28-13\ Marketplace_20m_00s__27m_31s_50h.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/APM_\ Marketplace/06-28-13\ Marketplace_20m_00s__27m_31s_50h.mp3
+>>>> /Users/hubertwong/temp/podcast/APM_\ Marketplace/06-28-13\ Marketplace_20m_00s__27m_31s_50h.mp3
+ Processing file '/Users/hubertwong/temp/podcast/APM_ Marketplace/06-28-13 Marketplace_20m_00s__27m_31s_50h.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: MPEG 1 Layer 3 - 44100 Hz - Mono - FRAME MODE - Total time: 7m.27s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/APM_ Marketplace/06-28-13 Marketplace_20m_00s__27m_31s_50h_00m_00s__07m_27s_81h.mp3" created
+ Processed 17144 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/APM_ Marketplace/06-28-13 Marketplace_20m_00s__27m_31s_50h_00m_00s__07m_27s_81h_00m_00s__07m_27s_76h.mp3
+
+=> init /Users/hubertwong/temp/podcast/APM_ Marketplace/06-28-13 Marketplace_20m_00s__27m_31s_50h_00m_00s__07m_27s_81h_00m_00s__07m_27s_76h.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/APM_\ Marketplace/06-28-13\ Marketplace_20m_00s__27m_31s_50h_00m_00s__07m_27s_81h_00m_00s__07m_27s_76h.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/APM_\ Marketplace/06-28-13\ Marketplace_20m_00s__27m_31s_50h_00m_00s__07m_27s_81h_00m_00s__07m_27s_76h.mp3
+>>>> /Users/hubertwong/temp/podcast/APM_\ Marketplace/06-28-13\ Marketplace_20m_00s__27m_31s_50h_00m_00s__07m_27s_81h_00m_00s__07m_27s_76h.mp3
+ Processing file '/Users/hubertwong/temp/podcast/APM_ Marketplace/06-28-13 Marketplace_20m_00s__27m_31s_50h_00m_00s__07m_27s_81h_00m_00s__07m_27s_76h.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: MPEG 1 Layer 3 - 44100 Hz - Mono - FRAME MODE - Total time: 7m.27s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/APM_ Marketplace/06-28-13 Marketplace_20m_00s__27m_31s_50h_00m_00s__07m_27s_81h_00m_00s__07m_27s_76h_00m_00s__07m_27s_71h.mp3" created
+ Processed 17140 frames - Sync errors: 0
+ time split ok
+
+=> at /Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr
+
+=> encoding [Corsten's Countdown Official Podcast by FLAIX.fr][Corsten's Countdown #307 podcast.m4a]
+
+=> init /Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #307 podcast.m4a
+
+=> init2 /Users/hubertwong/temp/podcast/Corsten's\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten's\ Countdown\ #307\ podcast.m4a
+
+=> init3 /Users/hubertwong/temp/podcast/Corsten\'s\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten\'s\ Countdown\ #307\ podcast.m4a
+
+=> init /Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #307 podcast.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/Corsten's\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten's\ Countdown\ #307\ podcast.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/Corsten\'s\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten\'s\ Countdown\ #307\ podcast.mp3
+=> src /Users/hubertwong/temp/podcast/Corsten\'s\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten\'s\ Countdown\ #307\ podcast.m4a
+=> dest /Users/hubertwong/temp/podcast/Corsten\'s\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten\'s\ Countdown\ #307\ podcast.mp3
+ Processing file '/Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #307 podcast.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: found Xing or Info header. Switching to frame mode... 
+ info: MPEG 1 Layer 3 - 44100 Hz - Joint Stereo - FRAME MODE - Total time: 57m.50s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #307 podcast_00m_00s__10m_00s.mp3" created
+   File "/Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #307 podcast_10m_00s__20m_00s.mp3" created
+   File "/Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #307 podcast_20m_00s__30m_00s.mp3" created
+   File "/Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #307 podcast_30m_00s__40m_00s.mp3" created
+   File "/Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #307 podcast_40m_00s__50m_00s.mp3" created
+   File "/Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #307 podcast_50m_00s__57m_50s_82h.mp3" created
+ Processed 132868 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #307 podcast_00m_00s__10m_00s.mp3
+
+=> init /Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #307 podcast_00m_00s__10m_00s.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/Corsten's\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten's\ Countdown\ #307\ podcast_00m_00s__10m_00s.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/Corsten\'s\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten\'s\ Countdown\ #307\ podcast_00m_00s__10m_00s.mp3
+>>>> /Users/hubertwong/temp/podcast/Corsten\'s\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten\'s\ Countdown\ #307\ podcast_00m_00s__10m_00s.mp3
+ Processing file '/Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #307 podcast_00m_00s__10m_00s.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: found Xing or Info header. Switching to frame mode... 
+ info: MPEG 1 Layer 3 - 44100 Hz - Joint Stereo - FRAME MODE - Total time: 10m.00s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #307 podcast_00m_00s__10m_00s_00m_00s__10m_00s.mp3" created
+ Processed 22970 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #307 podcast_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+
+=> init /Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #307 podcast_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/Corsten's\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten's\ Countdown\ #307\ podcast_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/Corsten\'s\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten\'s\ Countdown\ #307\ podcast_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+>>>> /Users/hubertwong/temp/podcast/Corsten\'s\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten\'s\ Countdown\ #307\ podcast_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+ Processing file '/Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #307 podcast_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: found Xing or Info header. Switching to frame mode... 
+ info: MPEG 1 Layer 3 - 44100 Hz - Joint Stereo - FRAME MODE - Total time: 10m.00s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #307 podcast_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3" created
+ Processed 22970 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #307 podcast_10m_00s__20m_00s.mp3
+
+=> init /Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #307 podcast_10m_00s__20m_00s.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/Corsten's\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten's\ Countdown\ #307\ podcast_10m_00s__20m_00s.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/Corsten\'s\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten\'s\ Countdown\ #307\ podcast_10m_00s__20m_00s.mp3
+>>>> /Users/hubertwong/temp/podcast/Corsten\'s\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten\'s\ Countdown\ #307\ podcast_10m_00s__20m_00s.mp3
+ Processing file '/Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #307 podcast_10m_00s__20m_00s.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: found Xing or Info header. Switching to frame mode... 
+ info: MPEG 1 Layer 3 - 44100 Hz - Joint Stereo - FRAME MODE - Total time: 10m.00s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #307 podcast_10m_00s__20m_00s_00m_00s__10m_00s.mp3" created
+ Processed 22969 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #307 podcast_10m_00s__20m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+
+=> init /Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #307 podcast_10m_00s__20m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/Corsten's\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten's\ Countdown\ #307\ podcast_10m_00s__20m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/Corsten\'s\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten\'s\ Countdown\ #307\ podcast_10m_00s__20m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+>>>> /Users/hubertwong/temp/podcast/Corsten\'s\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten\'s\ Countdown\ #307\ podcast_10m_00s__20m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+ Processing file '/Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #307 podcast_10m_00s__20m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: found Xing or Info header. Switching to frame mode... 
+ info: MPEG 1 Layer 3 - 44100 Hz - Joint Stereo - FRAME MODE - Total time: 10m.00s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #307 podcast_10m_00s__20m_00s_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3" created
+ Processed 22967 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #307 podcast_20m_00s__30m_00s.mp3
+
+=> init /Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #307 podcast_20m_00s__30m_00s.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/Corsten's\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten's\ Countdown\ #307\ podcast_20m_00s__30m_00s.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/Corsten\'s\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten\'s\ Countdown\ #307\ podcast_20m_00s__30m_00s.mp3
+>>>> /Users/hubertwong/temp/podcast/Corsten\'s\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten\'s\ Countdown\ #307\ podcast_20m_00s__30m_00s.mp3
+ Processing file '/Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #307 podcast_20m_00s__30m_00s.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: found Xing or Info header. Switching to frame mode... 
+ info: MPEG 1 Layer 3 - 44100 Hz - Joint Stereo - FRAME MODE - Total time: 10m.00s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #307 podcast_20m_00s__30m_00s_00m_00s__10m_00s.mp3" created
+ Processed 22969 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #307 podcast_20m_00s__30m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+
+=> init /Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #307 podcast_20m_00s__30m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/Corsten's\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten's\ Countdown\ #307\ podcast_20m_00s__30m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/Corsten\'s\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten\'s\ Countdown\ #307\ podcast_20m_00s__30m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+>>>> /Users/hubertwong/temp/podcast/Corsten\'s\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten\'s\ Countdown\ #307\ podcast_20m_00s__30m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+ Processing file '/Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #307 podcast_20m_00s__30m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: found Xing or Info header. Switching to frame mode... 
+ info: MPEG 1 Layer 3 - 44100 Hz - Joint Stereo - FRAME MODE - Total time: 10m.00s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #307 podcast_20m_00s__30m_00s_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3" created
+ Processed 22967 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #307 podcast_30m_00s__40m_00s.mp3
+
+=> init /Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #307 podcast_30m_00s__40m_00s.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/Corsten's\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten's\ Countdown\ #307\ podcast_30m_00s__40m_00s.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/Corsten\'s\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten\'s\ Countdown\ #307\ podcast_30m_00s__40m_00s.mp3
+>>>> /Users/hubertwong/temp/podcast/Corsten\'s\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten\'s\ Countdown\ #307\ podcast_30m_00s__40m_00s.mp3
+ Processing file '/Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #307 podcast_30m_00s__40m_00s.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: found Xing or Info header. Switching to frame mode... 
+ info: MPEG 1 Layer 3 - 44100 Hz - Joint Stereo - FRAME MODE - Total time: 10m.00s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #307 podcast_30m_00s__40m_00s_00m_00s__10m_00s.mp3" created
+ Processed 22968 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #307 podcast_30m_00s__40m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+
+=> init /Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #307 podcast_30m_00s__40m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/Corsten's\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten's\ Countdown\ #307\ podcast_30m_00s__40m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/Corsten\'s\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten\'s\ Countdown\ #307\ podcast_30m_00s__40m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+>>>> /Users/hubertwong/temp/podcast/Corsten\'s\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten\'s\ Countdown\ #307\ podcast_30m_00s__40m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+ Processing file '/Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #307 podcast_30m_00s__40m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: found Xing or Info header. Switching to frame mode... 
+ info: MPEG 1 Layer 3 - 44100 Hz - Joint Stereo - FRAME MODE - Total time: 9m.59s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #307 podcast_30m_00s__40m_00s_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__09m_59s_98h.mp3" created
+ Processed 22967 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #307 podcast_40m_00s__50m_00s.mp3
+
+=> init /Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #307 podcast_40m_00s__50m_00s.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/Corsten's\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten's\ Countdown\ #307\ podcast_40m_00s__50m_00s.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/Corsten\'s\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten\'s\ Countdown\ #307\ podcast_40m_00s__50m_00s.mp3
+>>>> /Users/hubertwong/temp/podcast/Corsten\'s\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten\'s\ Countdown\ #307\ podcast_40m_00s__50m_00s.mp3
+ Processing file '/Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #307 podcast_40m_00s__50m_00s.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: found Xing or Info header. Switching to frame mode... 
+ info: MPEG 1 Layer 3 - 44100 Hz - Joint Stereo - FRAME MODE - Total time: 10m.00s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #307 podcast_40m_00s__50m_00s_00m_00s__10m_00s.mp3" created
+ Processed 22969 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #307 podcast_40m_00s__50m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+
+=> init /Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #307 podcast_40m_00s__50m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/Corsten's\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten's\ Countdown\ #307\ podcast_40m_00s__50m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/Corsten\'s\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten\'s\ Countdown\ #307\ podcast_40m_00s__50m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+>>>> /Users/hubertwong/temp/podcast/Corsten\'s\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten\'s\ Countdown\ #307\ podcast_40m_00s__50m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+ Processing file '/Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #307 podcast_40m_00s__50m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: found Xing or Info header. Switching to frame mode... 
+ info: MPEG 1 Layer 3 - 44100 Hz - Joint Stereo - FRAME MODE - Total time: 10m.00s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #307 podcast_40m_00s__50m_00s_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3" created
+ Processed 22967 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #307 podcast_50m_00s__57m_50s_82h.mp3
+
+=> init /Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #307 podcast_50m_00s__57m_50s_82h.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/Corsten's\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten's\ Countdown\ #307\ podcast_50m_00s__57m_50s_82h.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/Corsten\'s\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten\'s\ Countdown\ #307\ podcast_50m_00s__57m_50s_82h.mp3
+>>>> /Users/hubertwong/temp/podcast/Corsten\'s\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten\'s\ Countdown\ #307\ podcast_50m_00s__57m_50s_82h.mp3
+ Processing file '/Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #307 podcast_50m_00s__57m_50s_82h.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: found Xing or Info header. Switching to frame mode... 
+ info: MPEG 1 Layer 3 - 44100 Hz - Joint Stereo - FRAME MODE - Total time: 7m.50s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #307 podcast_50m_00s__57m_50s_82h_00m_00s__07m_50s_89h.mp3" created
+ Processed 18023 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #307 podcast_50m_00s__57m_50s_82h_00m_00s__07m_50s_89h_00m_00s__07m_50s_84h.mp3
+
+=> init /Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #307 podcast_50m_00s__57m_50s_82h_00m_00s__07m_50s_89h_00m_00s__07m_50s_84h.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/Corsten's\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten's\ Countdown\ #307\ podcast_50m_00s__57m_50s_82h_00m_00s__07m_50s_89h_00m_00s__07m_50s_84h.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/Corsten\'s\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten\'s\ Countdown\ #307\ podcast_50m_00s__57m_50s_82h_00m_00s__07m_50s_89h_00m_00s__07m_50s_84h.mp3
+>>>> /Users/hubertwong/temp/podcast/Corsten\'s\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten\'s\ Countdown\ #307\ podcast_50m_00s__57m_50s_82h_00m_00s__07m_50s_89h_00m_00s__07m_50s_84h.mp3
+ Processing file '/Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #307 podcast_50m_00s__57m_50s_82h_00m_00s__07m_50s_89h_00m_00s__07m_50s_84h.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: found Xing or Info header. Switching to frame mode... 
+ info: MPEG 1 Layer 3 - 44100 Hz - Joint Stereo - FRAME MODE - Total time: 7m.50s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #307 podcast_50m_00s__57m_50s_82h_00m_00s__07m_50s_89h_00m_00s__07m_50s_84h_00m_00s__07m_50s_81h.mp3" created
+ Processed 18021 frames - Sync errors: 0
+ time split ok
+
+=> encoding [Corsten's Countdown Official Podcast by FLAIX.fr][Corsten's Countdown #308 podcast.m4a]
+
+=> init /Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #308 podcast.m4a
+
+=> init2 /Users/hubertwong/temp/podcast/Corsten's\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten's\ Countdown\ #308\ podcast.m4a
+
+=> init3 /Users/hubertwong/temp/podcast/Corsten\'s\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten\'s\ Countdown\ #308\ podcast.m4a
+
+=> init /Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #308 podcast.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/Corsten's\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten's\ Countdown\ #308\ podcast.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/Corsten\'s\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten\'s\ Countdown\ #308\ podcast.mp3
+=> src /Users/hubertwong/temp/podcast/Corsten\'s\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten\'s\ Countdown\ #308\ podcast.m4a
+=> dest /Users/hubertwong/temp/podcast/Corsten\'s\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten\'s\ Countdown\ #308\ podcast.mp3
+ Processing file '/Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #308 podcast.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: found Xing or Info header. Switching to frame mode... 
+ info: MPEG 1 Layer 3 - 44100 Hz - Joint Stereo - FRAME MODE - Total time: 55m.22s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #308 podcast_00m_00s__10m_00s.mp3" created
+   File "/Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #308 podcast_10m_00s__20m_00s.mp3" created
+   File "/Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #308 podcast_20m_00s__30m_00s.mp3" created
+   File "/Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #308 podcast_30m_00s__40m_00s.mp3" created
+   File "/Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #308 podcast_40m_00s__50m_00s.mp3" created
+   File "/Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #308 podcast_50m_00s__55m_22s_10h.mp3" created
+ Processed 127175 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #308 podcast_00m_00s__10m_00s.mp3
+
+=> init /Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #308 podcast_00m_00s__10m_00s.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/Corsten's\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten's\ Countdown\ #308\ podcast_00m_00s__10m_00s.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/Corsten\'s\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten\'s\ Countdown\ #308\ podcast_00m_00s__10m_00s.mp3
+>>>> /Users/hubertwong/temp/podcast/Corsten\'s\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten\'s\ Countdown\ #308\ podcast_00m_00s__10m_00s.mp3
+ Processing file '/Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #308 podcast_00m_00s__10m_00s.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: found Xing or Info header. Switching to frame mode... 
+ info: MPEG 1 Layer 3 - 44100 Hz - Joint Stereo - FRAME MODE - Total time: 10m.00s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #308 podcast_00m_00s__10m_00s_00m_00s__10m_00s.mp3" created
+ Processed 22970 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #308 podcast_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+
+=> init /Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #308 podcast_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/Corsten's\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten's\ Countdown\ #308\ podcast_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/Corsten\'s\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten\'s\ Countdown\ #308\ podcast_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+>>>> /Users/hubertwong/temp/podcast/Corsten\'s\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten\'s\ Countdown\ #308\ podcast_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+ Processing file '/Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #308 podcast_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: found Xing or Info header. Switching to frame mode... 
+ info: MPEG 1 Layer 3 - 44100 Hz - Joint Stereo - FRAME MODE - Total time: 10m.00s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #308 podcast_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3" created
+ Processed 22970 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #308 podcast_10m_00s__20m_00s.mp3
+
+=> init /Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #308 podcast_10m_00s__20m_00s.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/Corsten's\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten's\ Countdown\ #308\ podcast_10m_00s__20m_00s.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/Corsten\'s\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten\'s\ Countdown\ #308\ podcast_10m_00s__20m_00s.mp3
+>>>> /Users/hubertwong/temp/podcast/Corsten\'s\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten\'s\ Countdown\ #308\ podcast_10m_00s__20m_00s.mp3
+ Processing file '/Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #308 podcast_10m_00s__20m_00s.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: found Xing or Info header. Switching to frame mode... 
+ info: MPEG 1 Layer 3 - 44100 Hz - Joint Stereo - FRAME MODE - Total time: 10m.00s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #308 podcast_10m_00s__20m_00s_00m_00s__10m_00s.mp3" created
+ Processed 22969 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #308 podcast_10m_00s__20m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+
+=> init /Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #308 podcast_10m_00s__20m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/Corsten's\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten's\ Countdown\ #308\ podcast_10m_00s__20m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/Corsten\'s\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten\'s\ Countdown\ #308\ podcast_10m_00s__20m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+>>>> /Users/hubertwong/temp/podcast/Corsten\'s\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten\'s\ Countdown\ #308\ podcast_10m_00s__20m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+ Processing file '/Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #308 podcast_10m_00s__20m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: found Xing or Info header. Switching to frame mode... 
+ info: MPEG 1 Layer 3 - 44100 Hz - Joint Stereo - FRAME MODE - Total time: 10m.00s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #308 podcast_10m_00s__20m_00s_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3" created
+ Processed 22967 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #308 podcast_20m_00s__30m_00s.mp3
+
+=> init /Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #308 podcast_20m_00s__30m_00s.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/Corsten's\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten's\ Countdown\ #308\ podcast_20m_00s__30m_00s.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/Corsten\'s\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten\'s\ Countdown\ #308\ podcast_20m_00s__30m_00s.mp3
+>>>> /Users/hubertwong/temp/podcast/Corsten\'s\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten\'s\ Countdown\ #308\ podcast_20m_00s__30m_00s.mp3
+ Processing file '/Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #308 podcast_20m_00s__30m_00s.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: found Xing or Info header. Switching to frame mode... 
+ info: MPEG 1 Layer 3 - 44100 Hz - Joint Stereo - FRAME MODE - Total time: 10m.00s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #308 podcast_20m_00s__30m_00s_00m_00s__10m_00s.mp3" created
+ Processed 22969 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #308 podcast_20m_00s__30m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+
+=> init /Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #308 podcast_20m_00s__30m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/Corsten's\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten's\ Countdown\ #308\ podcast_20m_00s__30m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/Corsten\'s\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten\'s\ Countdown\ #308\ podcast_20m_00s__30m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+>>>> /Users/hubertwong/temp/podcast/Corsten\'s\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten\'s\ Countdown\ #308\ podcast_20m_00s__30m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+ Processing file '/Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #308 podcast_20m_00s__30m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: found Xing or Info header. Switching to frame mode... 
+ info: MPEG 1 Layer 3 - 44100 Hz - Joint Stereo - FRAME MODE - Total time: 10m.00s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #308 podcast_20m_00s__30m_00s_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3" created
+ Processed 22967 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #308 podcast_30m_00s__40m_00s.mp3
+
+=> init /Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #308 podcast_30m_00s__40m_00s.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/Corsten's\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten's\ Countdown\ #308\ podcast_30m_00s__40m_00s.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/Corsten\'s\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten\'s\ Countdown\ #308\ podcast_30m_00s__40m_00s.mp3
+>>>> /Users/hubertwong/temp/podcast/Corsten\'s\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten\'s\ Countdown\ #308\ podcast_30m_00s__40m_00s.mp3
+ Processing file '/Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #308 podcast_30m_00s__40m_00s.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: found Xing or Info header. Switching to frame mode... 
+ info: MPEG 1 Layer 3 - 44100 Hz - Joint Stereo - FRAME MODE - Total time: 10m.00s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #308 podcast_30m_00s__40m_00s_00m_00s__10m_00s.mp3" created
+ Processed 22969 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #308 podcast_30m_00s__40m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+
+=> init /Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #308 podcast_30m_00s__40m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/Corsten's\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten's\ Countdown\ #308\ podcast_30m_00s__40m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/Corsten\'s\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten\'s\ Countdown\ #308\ podcast_30m_00s__40m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+>>>> /Users/hubertwong/temp/podcast/Corsten\'s\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten\'s\ Countdown\ #308\ podcast_30m_00s__40m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+ Processing file '/Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #308 podcast_30m_00s__40m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: found Xing or Info header. Switching to frame mode... 
+ info: MPEG 1 Layer 3 - 44100 Hz - Joint Stereo - FRAME MODE - Total time: 10m.00s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #308 podcast_30m_00s__40m_00s_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3" created
+ Processed 22969 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #308 podcast_40m_00s__50m_00s.mp3
+
+=> init /Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #308 podcast_40m_00s__50m_00s.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/Corsten's\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten's\ Countdown\ #308\ podcast_40m_00s__50m_00s.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/Corsten\'s\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten\'s\ Countdown\ #308\ podcast_40m_00s__50m_00s.mp3
+>>>> /Users/hubertwong/temp/podcast/Corsten\'s\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten\'s\ Countdown\ #308\ podcast_40m_00s__50m_00s.mp3
+ Processing file '/Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #308 podcast_40m_00s__50m_00s.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: found Xing or Info header. Switching to frame mode... 
+ info: MPEG 1 Layer 3 - 44100 Hz - Joint Stereo - FRAME MODE - Total time: 10m.00s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #308 podcast_40m_00s__50m_00s_00m_00s__10m_00s.mp3" created
+ Processed 22970 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #308 podcast_40m_00s__50m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+
+=> init /Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #308 podcast_40m_00s__50m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/Corsten's\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten's\ Countdown\ #308\ podcast_40m_00s__50m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/Corsten\'s\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten\'s\ Countdown\ #308\ podcast_40m_00s__50m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+>>>> /Users/hubertwong/temp/podcast/Corsten\'s\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten\'s\ Countdown\ #308\ podcast_40m_00s__50m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+ Processing file '/Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #308 podcast_40m_00s__50m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: found Xing or Info header. Switching to frame mode... 
+ info: MPEG 1 Layer 3 - 44100 Hz - Joint Stereo - FRAME MODE - Total time: 10m.00s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #308 podcast_40m_00s__50m_00s_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3" created
+ Processed 22970 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #308 podcast_50m_00s__55m_22s_10h.mp3
+
+=> init /Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #308 podcast_50m_00s__55m_22s_10h.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/Corsten's\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten's\ Countdown\ #308\ podcast_50m_00s__55m_22s_10h.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/Corsten\'s\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten\'s\ Countdown\ #308\ podcast_50m_00s__55m_22s_10h.mp3
+>>>> /Users/hubertwong/temp/podcast/Corsten\'s\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten\'s\ Countdown\ #308\ podcast_50m_00s__55m_22s_10h.mp3
+ Processing file '/Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #308 podcast_50m_00s__55m_22s_10h.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: found Xing or Info header. Switching to frame mode... 
+ info: MPEG 1 Layer 3 - 44100 Hz - Joint Stereo - FRAME MODE - Total time: 5m.22s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #308 podcast_50m_00s__55m_22s_10h_00m_00s__05m_22s_17h.mp3" created
+ Processed 12330 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #308 podcast_50m_00s__55m_22s_10h_00m_00s__05m_22s_17h_00m_00s__05m_22s_12h.mp3
+
+=> init /Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #308 podcast_50m_00s__55m_22s_10h_00m_00s__05m_22s_17h_00m_00s__05m_22s_12h.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/Corsten's\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten's\ Countdown\ #308\ podcast_50m_00s__55m_22s_10h_00m_00s__05m_22s_17h_00m_00s__05m_22s_12h.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/Corsten\'s\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten\'s\ Countdown\ #308\ podcast_50m_00s__55m_22s_10h_00m_00s__05m_22s_17h_00m_00s__05m_22s_12h.mp3
+>>>> /Users/hubertwong/temp/podcast/Corsten\'s\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten\'s\ Countdown\ #308\ podcast_50m_00s__55m_22s_10h_00m_00s__05m_22s_17h_00m_00s__05m_22s_12h.mp3
+ Processing file '/Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #308 podcast_50m_00s__55m_22s_10h_00m_00s__05m_22s_17h_00m_00s__05m_22s_12h.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: found Xing or Info header. Switching to frame mode... 
+ info: MPEG 1 Layer 3 - 44100 Hz - Joint Stereo - FRAME MODE - Total time: 5m.22s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #308 podcast_50m_00s__55m_22s_10h_00m_00s__05m_22s_17h_00m_00s__05m_22s_12h_00m_00s__05m_22s_09h.mp3" created
+ Processed 12328 frames - Sync errors: 0
+ time split ok
+
+=> encoding [Corsten's Countdown Official Podcast by FLAIX.fr][Corsten's Countdown #309 podcast.m4a]
+
+=> init /Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #309 podcast.m4a
+
+=> init2 /Users/hubertwong/temp/podcast/Corsten's\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten's\ Countdown\ #309\ podcast.m4a
+
+=> init3 /Users/hubertwong/temp/podcast/Corsten\'s\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten\'s\ Countdown\ #309\ podcast.m4a
+
+=> init /Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #309 podcast.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/Corsten's\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten's\ Countdown\ #309\ podcast.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/Corsten\'s\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten\'s\ Countdown\ #309\ podcast.mp3
+=> src /Users/hubertwong/temp/podcast/Corsten\'s\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten\'s\ Countdown\ #309\ podcast.m4a
+=> dest /Users/hubertwong/temp/podcast/Corsten\'s\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten\'s\ Countdown\ #309\ podcast.mp3
+ Processing file '/Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #309 podcast.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: found Xing or Info header. Switching to frame mode... 
+ info: MPEG 1 Layer 3 - 44100 Hz - Joint Stereo - FRAME MODE - Total time: 55m.06s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #309 podcast_00m_00s__10m_00s.mp3" created
+   File "/Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #309 podcast_10m_00s__20m_00s.mp3" created
+   File "/Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #309 podcast_20m_00s__30m_00s.mp3" created
+   File "/Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #309 podcast_30m_00s__40m_00s.mp3" created
+   File "/Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #309 podcast_40m_00s__50m_00s.mp3" created
+   File "/Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #309 podcast_50m_00s__55m_06s_09h.mp3" created
+ Processed 126562 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #309 podcast_00m_00s__10m_00s.mp3
+
+=> init /Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #309 podcast_00m_00s__10m_00s.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/Corsten's\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten's\ Countdown\ #309\ podcast_00m_00s__10m_00s.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/Corsten\'s\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten\'s\ Countdown\ #309\ podcast_00m_00s__10m_00s.mp3
+>>>> /Users/hubertwong/temp/podcast/Corsten\'s\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten\'s\ Countdown\ #309\ podcast_00m_00s__10m_00s.mp3
+ Processing file '/Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #309 podcast_00m_00s__10m_00s.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: found Xing or Info header. Switching to frame mode... 
+ info: MPEG 1 Layer 3 - 44100 Hz - Joint Stereo - FRAME MODE - Total time: 10m.00s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #309 podcast_00m_00s__10m_00s_00m_00s__10m_00s.mp3" created
+ Processed 22970 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #309 podcast_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+
+=> init /Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #309 podcast_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/Corsten's\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten's\ Countdown\ #309\ podcast_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/Corsten\'s\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten\'s\ Countdown\ #309\ podcast_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+>>>> /Users/hubertwong/temp/podcast/Corsten\'s\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten\'s\ Countdown\ #309\ podcast_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+ Processing file '/Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #309 podcast_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: found Xing or Info header. Switching to frame mode... 
+ info: MPEG 1 Layer 3 - 44100 Hz - Joint Stereo - FRAME MODE - Total time: 10m.00s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #309 podcast_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3" created
+ Processed 22970 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #309 podcast_10m_00s__20m_00s.mp3
+
+=> init /Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #309 podcast_10m_00s__20m_00s.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/Corsten's\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten's\ Countdown\ #309\ podcast_10m_00s__20m_00s.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/Corsten\'s\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten\'s\ Countdown\ #309\ podcast_10m_00s__20m_00s.mp3
+>>>> /Users/hubertwong/temp/podcast/Corsten\'s\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten\'s\ Countdown\ #309\ podcast_10m_00s__20m_00s.mp3
+ Processing file '/Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #309 podcast_10m_00s__20m_00s.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: found Xing or Info header. Switching to frame mode... 
+ info: MPEG 1 Layer 3 - 44100 Hz - Joint Stereo - FRAME MODE - Total time: 10m.00s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #309 podcast_10m_00s__20m_00s_00m_00s__10m_00s.mp3" created
+ Processed 22969 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #309 podcast_10m_00s__20m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+
+=> init /Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #309 podcast_10m_00s__20m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/Corsten's\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten's\ Countdown\ #309\ podcast_10m_00s__20m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/Corsten\'s\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten\'s\ Countdown\ #309\ podcast_10m_00s__20m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+>>>> /Users/hubertwong/temp/podcast/Corsten\'s\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten\'s\ Countdown\ #309\ podcast_10m_00s__20m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+ Processing file '/Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #309 podcast_10m_00s__20m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: found Xing or Info header. Switching to frame mode... 
+ info: MPEG 1 Layer 3 - 44100 Hz - Joint Stereo - FRAME MODE - Total time: 10m.00s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #309 podcast_10m_00s__20m_00s_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3" created
+ Processed 22967 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #309 podcast_20m_00s__30m_00s.mp3
+
+=> init /Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #309 podcast_20m_00s__30m_00s.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/Corsten's\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten's\ Countdown\ #309\ podcast_20m_00s__30m_00s.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/Corsten\'s\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten\'s\ Countdown\ #309\ podcast_20m_00s__30m_00s.mp3
+>>>> /Users/hubertwong/temp/podcast/Corsten\'s\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten\'s\ Countdown\ #309\ podcast_20m_00s__30m_00s.mp3
+ Processing file '/Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #309 podcast_20m_00s__30m_00s.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: found Xing or Info header. Switching to frame mode... 
+ info: MPEG 1 Layer 3 - 44100 Hz - Joint Stereo - FRAME MODE - Total time: 10m.00s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #309 podcast_20m_00s__30m_00s_00m_00s__10m_00s.mp3" created
+ Processed 22969 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #309 podcast_20m_00s__30m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+
+=> init /Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #309 podcast_20m_00s__30m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/Corsten's\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten's\ Countdown\ #309\ podcast_20m_00s__30m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/Corsten\'s\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten\'s\ Countdown\ #309\ podcast_20m_00s__30m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+>>>> /Users/hubertwong/temp/podcast/Corsten\'s\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten\'s\ Countdown\ #309\ podcast_20m_00s__30m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+ Processing file '/Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #309 podcast_20m_00s__30m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: found Xing or Info header. Switching to frame mode... 
+ info: MPEG 1 Layer 3 - 44100 Hz - Joint Stereo - FRAME MODE - Total time: 10m.00s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #309 podcast_20m_00s__30m_00s_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3" created
+ Processed 22967 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #309 podcast_30m_00s__40m_00s.mp3
+
+=> init /Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #309 podcast_30m_00s__40m_00s.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/Corsten's\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten's\ Countdown\ #309\ podcast_30m_00s__40m_00s.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/Corsten\'s\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten\'s\ Countdown\ #309\ podcast_30m_00s__40m_00s.mp3
+>>>> /Users/hubertwong/temp/podcast/Corsten\'s\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten\'s\ Countdown\ #309\ podcast_30m_00s__40m_00s.mp3
+ Processing file '/Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #309 podcast_30m_00s__40m_00s.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: found Xing or Info header. Switching to frame mode... 
+ info: MPEG 1 Layer 3 - 44100 Hz - Joint Stereo - FRAME MODE - Total time: 10m.00s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #309 podcast_30m_00s__40m_00s_00m_00s__10m_00s.mp3" created
+ Processed 22968 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #309 podcast_30m_00s__40m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+
+=> init /Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #309 podcast_30m_00s__40m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/Corsten's\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten's\ Countdown\ #309\ podcast_30m_00s__40m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/Corsten\'s\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten\'s\ Countdown\ #309\ podcast_30m_00s__40m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+>>>> /Users/hubertwong/temp/podcast/Corsten\'s\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten\'s\ Countdown\ #309\ podcast_30m_00s__40m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+ Processing file '/Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #309 podcast_30m_00s__40m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: found Xing or Info header. Switching to frame mode... 
+ info: MPEG 1 Layer 3 - 44100 Hz - Joint Stereo - FRAME MODE - Total time: 9m.59s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #309 podcast_30m_00s__40m_00s_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__09m_59s_98h.mp3" created
+ Processed 22966 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #309 podcast_40m_00s__50m_00s.mp3
+
+=> init /Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #309 podcast_40m_00s__50m_00s.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/Corsten's\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten's\ Countdown\ #309\ podcast_40m_00s__50m_00s.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/Corsten\'s\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten\'s\ Countdown\ #309\ podcast_40m_00s__50m_00s.mp3
+>>>> /Users/hubertwong/temp/podcast/Corsten\'s\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten\'s\ Countdown\ #309\ podcast_40m_00s__50m_00s.mp3
+ Processing file '/Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #309 podcast_40m_00s__50m_00s.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: found Xing or Info header. Switching to frame mode... 
+ info: MPEG 1 Layer 3 - 44100 Hz - Joint Stereo - FRAME MODE - Total time: 10m.00s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #309 podcast_40m_00s__50m_00s_00m_00s__10m_00s.mp3" created
+ Processed 22969 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #309 podcast_40m_00s__50m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+
+=> init /Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #309 podcast_40m_00s__50m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/Corsten's\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten's\ Countdown\ #309\ podcast_40m_00s__50m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/Corsten\'s\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten\'s\ Countdown\ #309\ podcast_40m_00s__50m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+>>>> /Users/hubertwong/temp/podcast/Corsten\'s\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten\'s\ Countdown\ #309\ podcast_40m_00s__50m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+ Processing file '/Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #309 podcast_40m_00s__50m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: found Xing or Info header. Switching to frame mode... 
+ info: MPEG 1 Layer 3 - 44100 Hz - Joint Stereo - FRAME MODE - Total time: 10m.00s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #309 podcast_40m_00s__50m_00s_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3" created
+ Processed 22967 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #309 podcast_50m_00s__55m_06s_09h.mp3
+
+=> init /Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #309 podcast_50m_00s__55m_06s_09h.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/Corsten's\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten's\ Countdown\ #309\ podcast_50m_00s__55m_06s_09h.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/Corsten\'s\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten\'s\ Countdown\ #309\ podcast_50m_00s__55m_06s_09h.mp3
+>>>> /Users/hubertwong/temp/podcast/Corsten\'s\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten\'s\ Countdown\ #309\ podcast_50m_00s__55m_06s_09h.mp3
+ Processing file '/Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #309 podcast_50m_00s__55m_06s_09h.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: found Xing or Info header. Switching to frame mode... 
+ info: MPEG 1 Layer 3 - 44100 Hz - Joint Stereo - FRAME MODE - Total time: 5m.06s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #309 podcast_50m_00s__55m_06s_09h_00m_00s__05m_06s_16h.mp3" created
+ Processed 11717 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #309 podcast_50m_00s__55m_06s_09h_00m_00s__05m_06s_16h_00m_00s__05m_06s_11h.mp3
+
+=> init /Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #309 podcast_50m_00s__55m_06s_09h_00m_00s__05m_06s_16h_00m_00s__05m_06s_11h.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/Corsten's\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten's\ Countdown\ #309\ podcast_50m_00s__55m_06s_09h_00m_00s__05m_06s_16h_00m_00s__05m_06s_11h.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/Corsten\'s\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten\'s\ Countdown\ #309\ podcast_50m_00s__55m_06s_09h_00m_00s__05m_06s_16h_00m_00s__05m_06s_11h.mp3
+>>>> /Users/hubertwong/temp/podcast/Corsten\'s\ Countdown\ Official\ Podcast\ by\ FLAIX.fr/Corsten\'s\ Countdown\ #309\ podcast_50m_00s__55m_06s_09h_00m_00s__05m_06s_16h_00m_00s__05m_06s_11h.mp3
+ Processing file '/Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #309 podcast_50m_00s__55m_06s_09h_00m_00s__05m_06s_16h_00m_00s__05m_06s_11h.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: found Xing or Info header. Switching to frame mode... 
+ info: MPEG 1 Layer 3 - 44100 Hz - Joint Stereo - FRAME MODE - Total time: 5m.06s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/Corsten's Countdown Official Podcast by FLAIX.fr/Corsten's Countdown #309 podcast_50m_00s__55m_06s_09h_00m_00s__05m_06s_16h_00m_00s__05m_06s_11h_00m_00s__05m_06s_08h.mp3" created
+ Processed 11715 frames - Sync errors: 0
+ time split ok
+
+=> at /Users/hubertwong/temp/podcast/MarketFoolery
+>>> /Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_ 06.24.2013.mp3
+
+=> init /Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_ 06.24.2013.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_\ 06.24.2013.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_\ 06.24.2013.mp3
+>>>> /Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_\ 06.24.2013.mp3
+ Processing file '/Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_ 06.24.2013.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: MPEG 2 Layer 3 - 22050 Hz - Stereo - FRAME MODE - Total time: 16m.44s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_ 06.24.2013_00m_00s__10m_00s.mp3" created
+   File "/Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_ 06.24.2013_10m_00s__16m_44s_58h.mp3" created
+ Processed 38457 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_ 06.24.2013_00m_00s__10m_00s.mp3
+
+=> init /Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_ 06.24.2013_00m_00s__10m_00s.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_\ 06.24.2013_00m_00s__10m_00s.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_\ 06.24.2013_00m_00s__10m_00s.mp3
+>>>> /Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_\ 06.24.2013_00m_00s__10m_00s.mp3
+ Processing file '/Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_ 06.24.2013_00m_00s__10m_00s.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: MPEG 2 Layer 3 - 22050 Hz - Stereo - FRAME MODE - Total time: 10m.00s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_ 06.24.2013_00m_00s__10m_00s_00m_00s__10m_00s.mp3" created
+ Processed 22970 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_ 06.24.2013_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+
+=> init /Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_ 06.24.2013_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_\ 06.24.2013_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_\ 06.24.2013_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+>>>> /Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_\ 06.24.2013_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+ Processing file '/Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_ 06.24.2013_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: MPEG 2 Layer 3 - 22050 Hz - Stereo - FRAME MODE - Total time: 10m.00s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_ 06.24.2013_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3" created
+ Processed 22970 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_ 06.24.2013_10m_00s__16m_44s_58h.mp3
+
+=> init /Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_ 06.24.2013_10m_00s__16m_44s_58h.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_\ 06.24.2013_10m_00s__16m_44s_58h.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_\ 06.24.2013_10m_00s__16m_44s_58h.mp3
+>>>> /Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_\ 06.24.2013_10m_00s__16m_44s_58h.mp3
+ Processing file '/Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_ 06.24.2013_10m_00s__16m_44s_58h.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: MPEG 2 Layer 3 - 22050 Hz - Stereo - FRAME MODE - Total time: 6m.44s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_ 06.24.2013_10m_00s__16m_44s_58h_00m_00s__06m_44s_52h.mp3" created
+ Processed 15486 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_ 06.24.2013_10m_00s__16m_44s_58h_00m_00s__06m_44s_52h_00m_00s__06m_44s_46h.mp3
+
+=> init /Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_ 06.24.2013_10m_00s__16m_44s_58h_00m_00s__06m_44s_52h_00m_00s__06m_44s_46h.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_\ 06.24.2013_10m_00s__16m_44s_58h_00m_00s__06m_44s_52h_00m_00s__06m_44s_46h.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_\ 06.24.2013_10m_00s__16m_44s_58h_00m_00s__06m_44s_52h_00m_00s__06m_44s_46h.mp3
+>>>> /Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_\ 06.24.2013_10m_00s__16m_44s_58h_00m_00s__06m_44s_52h_00m_00s__06m_44s_46h.mp3
+ Processing file '/Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_ 06.24.2013_10m_00s__16m_44s_58h_00m_00s__06m_44s_52h_00m_00s__06m_44s_46h.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: MPEG 2 Layer 3 - 22050 Hz - Stereo - FRAME MODE - Total time: 6m.44s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_ 06.24.2013_10m_00s__16m_44s_58h_00m_00s__06m_44s_52h_00m_00s__06m_44s_46h_00m_00s__06m_44s_41h.mp3" created
+ Processed 15482 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_ 06.25.2013.mp3
+
+=> init /Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_ 06.25.2013.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_\ 06.25.2013.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_\ 06.25.2013.mp3
+>>>> /Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_\ 06.25.2013.mp3
+ Processing file '/Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_ 06.25.2013.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: MPEG 2 Layer 3 - 22050 Hz - Stereo - FRAME MODE - Total time: 23m.17s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_ 06.25.2013_00m_00s__10m_00s.mp3" created
+   File "/Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_ 06.25.2013_10m_00s__20m_00s.mp3" created
+   File "/Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_ 06.25.2013_20m_00s__23m_17s_64h.mp3" created
+ Processed 53504 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_ 06.25.2013_00m_00s__10m_00s.mp3
+
+=> init /Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_ 06.25.2013_00m_00s__10m_00s.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_\ 06.25.2013_00m_00s__10m_00s.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_\ 06.25.2013_00m_00s__10m_00s.mp3
+>>>> /Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_\ 06.25.2013_00m_00s__10m_00s.mp3
+ Processing file '/Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_ 06.25.2013_00m_00s__10m_00s.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: MPEG 2 Layer 3 - 22050 Hz - Stereo - FRAME MODE - Total time: 10m.00s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_ 06.25.2013_00m_00s__10m_00s_00m_00s__10m_00s.mp3" created
+ Processed 22970 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_ 06.25.2013_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+
+=> init /Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_ 06.25.2013_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_\ 06.25.2013_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_\ 06.25.2013_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+>>>> /Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_\ 06.25.2013_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+ Processing file '/Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_ 06.25.2013_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: MPEG 2 Layer 3 - 22050 Hz - Stereo - FRAME MODE - Total time: 10m.00s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_ 06.25.2013_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3" created
+ Processed 22970 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_ 06.25.2013_10m_00s__20m_00s.mp3
+
+=> init /Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_ 06.25.2013_10m_00s__20m_00s.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_\ 06.25.2013_10m_00s__20m_00s.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_\ 06.25.2013_10m_00s__20m_00s.mp3
+>>>> /Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_\ 06.25.2013_10m_00s__20m_00s.mp3
+ Processing file '/Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_ 06.25.2013_10m_00s__20m_00s.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: MPEG 2 Layer 3 - 22050 Hz - Stereo - FRAME MODE - Total time: 9m.59s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_ 06.25.2013_10m_00s__20m_00s_00m_00s__09m_59s_99h.mp3" created
+ Processed 22969 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_ 06.25.2013_10m_00s__20m_00s_00m_00s__09m_59s_99h_00m_00s__09m_59s_97h.mp3
+
+=> init /Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_ 06.25.2013_10m_00s__20m_00s_00m_00s__09m_59s_99h_00m_00s__09m_59s_97h.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_\ 06.25.2013_10m_00s__20m_00s_00m_00s__09m_59s_99h_00m_00s__09m_59s_97h.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_\ 06.25.2013_10m_00s__20m_00s_00m_00s__09m_59s_99h_00m_00s__09m_59s_97h.mp3
+>>>> /Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_\ 06.25.2013_10m_00s__20m_00s_00m_00s__09m_59s_99h_00m_00s__09m_59s_97h.mp3
+ Processing file '/Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_ 06.25.2013_10m_00s__20m_00s_00m_00s__09m_59s_99h_00m_00s__09m_59s_97h.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: MPEG 2 Layer 3 - 22050 Hz - Stereo - FRAME MODE - Total time: 9m.59s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_ 06.25.2013_10m_00s__20m_00s_00m_00s__09m_59s_99h_00m_00s__09m_59s_97h_00m_00s__09m_59s_94h.mp3" created
+ Processed 22967 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_ 06.25.2013_20m_00s__23m_17s_64h.mp3
+
+=> init /Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_ 06.25.2013_20m_00s__23m_17s_64h.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_\ 06.25.2013_20m_00s__23m_17s_64h.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_\ 06.25.2013_20m_00s__23m_17s_64h.mp3
+>>>> /Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_\ 06.25.2013_20m_00s__23m_17s_64h.mp3
+ Processing file '/Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_ 06.25.2013_20m_00s__23m_17s_64h.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: MPEG 2 Layer 3 - 22050 Hz - Stereo - FRAME MODE - Total time: 3m.17s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_ 06.25.2013_20m_00s__23m_17s_64h_00m_00s__03m_17s_58h.mp3" created
+ Processed 7564 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_ 06.25.2013_20m_00s__23m_17s_64h_00m_00s__03m_17s_58h_00m_00s__03m_17s_52h.mp3
+
+=> init /Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_ 06.25.2013_20m_00s__23m_17s_64h_00m_00s__03m_17s_58h_00m_00s__03m_17s_52h.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_\ 06.25.2013_20m_00s__23m_17s_64h_00m_00s__03m_17s_58h_00m_00s__03m_17s_52h.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_\ 06.25.2013_20m_00s__23m_17s_64h_00m_00s__03m_17s_58h_00m_00s__03m_17s_52h.mp3
+>>>> /Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_\ 06.25.2013_20m_00s__23m_17s_64h_00m_00s__03m_17s_58h_00m_00s__03m_17s_52h.mp3
+ Processing file '/Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_ 06.25.2013_20m_00s__23m_17s_64h_00m_00s__03m_17s_58h_00m_00s__03m_17s_52h.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: MPEG 2 Layer 3 - 22050 Hz - Stereo - FRAME MODE - Total time: 3m.17s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_ 06.25.2013_20m_00s__23m_17s_64h_00m_00s__03m_17s_58h_00m_00s__03m_17s_52h_00m_00s__03m_17s_47h.mp3" created
+ Processed 7560 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_ 06.26.2013.mp3
+
+=> init /Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_ 06.26.2013.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_\ 06.26.2013.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_\ 06.26.2013.mp3
+>>>> /Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_\ 06.26.2013.mp3
+ Processing file '/Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_ 06.26.2013.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: MPEG 2 Layer 3 - 22050 Hz - Stereo - FRAME MODE - Total time: 22m.15s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_ 06.26.2013_00m_00s__10m_00s.mp3" created
+   File "/Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_ 06.26.2013_10m_00s__20m_00s.mp3" created
+   File "/Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_ 06.26.2013_20m_00s__22m_15s_50h.mp3" created
+ Processed 51125 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_ 06.26.2013_00m_00s__10m_00s.mp3
+
+=> init /Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_ 06.26.2013_00m_00s__10m_00s.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_\ 06.26.2013_00m_00s__10m_00s.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_\ 06.26.2013_00m_00s__10m_00s.mp3
+>>>> /Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_\ 06.26.2013_00m_00s__10m_00s.mp3
+ Processing file '/Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_ 06.26.2013_00m_00s__10m_00s.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: MPEG 2 Layer 3 - 22050 Hz - Stereo - FRAME MODE - Total time: 10m.00s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_ 06.26.2013_00m_00s__10m_00s_00m_00s__10m_00s.mp3" created
+ Processed 22970 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_ 06.26.2013_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+
+=> init /Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_ 06.26.2013_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_\ 06.26.2013_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_\ 06.26.2013_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+>>>> /Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_\ 06.26.2013_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+ Processing file '/Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_ 06.26.2013_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: MPEG 2 Layer 3 - 22050 Hz - Stereo - FRAME MODE - Total time: 10m.00s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_ 06.26.2013_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3" created
+ Processed 22970 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_ 06.26.2013_10m_00s__20m_00s.mp3
+
+=> init /Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_ 06.26.2013_10m_00s__20m_00s.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_\ 06.26.2013_10m_00s__20m_00s.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_\ 06.26.2013_10m_00s__20m_00s.mp3
+>>>> /Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_\ 06.26.2013_10m_00s__20m_00s.mp3
+ Processing file '/Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_ 06.26.2013_10m_00s__20m_00s.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: MPEG 2 Layer 3 - 22050 Hz - Stereo - FRAME MODE - Total time: 9m.59s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_ 06.26.2013_10m_00s__20m_00s_00m_00s__09m_59s_99h.mp3" created
+ Processed 22969 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_ 06.26.2013_10m_00s__20m_00s_00m_00s__09m_59s_99h_00m_00s__09m_59s_97h.mp3
+
+=> init /Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_ 06.26.2013_10m_00s__20m_00s_00m_00s__09m_59s_99h_00m_00s__09m_59s_97h.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_\ 06.26.2013_10m_00s__20m_00s_00m_00s__09m_59s_99h_00m_00s__09m_59s_97h.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_\ 06.26.2013_10m_00s__20m_00s_00m_00s__09m_59s_99h_00m_00s__09m_59s_97h.mp3
+>>>> /Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_\ 06.26.2013_10m_00s__20m_00s_00m_00s__09m_59s_99h_00m_00s__09m_59s_97h.mp3
+ Processing file '/Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_ 06.26.2013_10m_00s__20m_00s_00m_00s__09m_59s_99h_00m_00s__09m_59s_97h.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: MPEG 2 Layer 3 - 22050 Hz - Stereo - FRAME MODE - Total time: 9m.59s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_ 06.26.2013_10m_00s__20m_00s_00m_00s__09m_59s_99h_00m_00s__09m_59s_97h_00m_00s__09m_59s_91h.mp3" created
+ Processed 22966 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_ 06.26.2013_20m_00s__22m_15s_50h.mp3
+
+=> init /Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_ 06.26.2013_20m_00s__22m_15s_50h.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_\ 06.26.2013_20m_00s__22m_15s_50h.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_\ 06.26.2013_20m_00s__22m_15s_50h.mp3
+>>>> /Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_\ 06.26.2013_20m_00s__22m_15s_50h.mp3
+ Processing file '/Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_ 06.26.2013_20m_00s__22m_15s_50h.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: MPEG 2 Layer 3 - 22050 Hz - Stereo - FRAME MODE - Total time: 2m.15s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_ 06.26.2013_20m_00s__22m_15s_50h_00m_00s__02m_15s_46h.mp3" created
+ Processed 5186 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_ 06.26.2013_20m_00s__22m_15s_50h_00m_00s__02m_15s_46h_00m_00s__02m_15s_40h.mp3
+
+=> init /Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_ 06.26.2013_20m_00s__22m_15s_50h_00m_00s__02m_15s_46h_00m_00s__02m_15s_40h.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_\ 06.26.2013_20m_00s__22m_15s_50h_00m_00s__02m_15s_46h_00m_00s__02m_15s_40h.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_\ 06.26.2013_20m_00s__22m_15s_50h_00m_00s__02m_15s_46h_00m_00s__02m_15s_40h.mp3
+>>>> /Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_\ 06.26.2013_20m_00s__22m_15s_50h_00m_00s__02m_15s_46h_00m_00s__02m_15s_40h.mp3
+ Processing file '/Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_ 06.26.2013_20m_00s__22m_15s_50h_00m_00s__02m_15s_46h_00m_00s__02m_15s_40h.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: MPEG 2 Layer 3 - 22050 Hz - Stereo - FRAME MODE - Total time: 2m.15s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/MarketFoolery/MarketFoolery_ 06.26.2013_20m_00s__22m_15s_50h_00m_00s__02m_15s_46h_00m_00s__02m_15s_40h_00m_00s__02m_15s_35h.mp3" created
+ Processed 5182 frames - Sync errors: 0
+ time split ok
+
+=> at /Users/hubertwong/temp/podcast/NPR_ Planet Money Podcast
+>>> /Users/hubertwong/temp/podcast/NPR_ Planet Money Podcast/01 #457_ Why Pink.mp3
+
+=> init /Users/hubertwong/temp/podcast/NPR_ Planet Money Podcast/01 #457_ Why Pink.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/NPR_\ Planet\ Money\ Podcast/01\ #457_\ Why\ Pink.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/NPR_\ Planet\ Money\ Podcast/01\ #457_\ Why\ Pink.mp3
+>>>> /Users/hubertwong/temp/podcast/NPR_\ Planet\ Money\ Podcast/01\ #457_\ Why\ Pink.mp3
+ Processing file '/Users/hubertwong/temp/podcast/NPR_ Planet Money Podcast/01 #457_ Why Pink.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: MPEG 1 Layer 3 - 44100 Hz - Mono - FRAME MODE - Total time: 17m.25s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/NPR_ Planet Money Podcast/01 #457_ Why Pink_00m_00s__10m_00s.mp3" created
+   File "/Users/hubertwong/temp/podcast/NPR_ Planet Money Podcast/01 #457_ Why Pink_10m_00s__17m_25s_59h.mp3" created
+ Processed 40027 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/NPR_ Planet Money Podcast/01 #457_ Why Pink_00m_00s__10m_00s.mp3
+
+=> init /Users/hubertwong/temp/podcast/NPR_ Planet Money Podcast/01 #457_ Why Pink_00m_00s__10m_00s.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/NPR_\ Planet\ Money\ Podcast/01\ #457_\ Why\ Pink_00m_00s__10m_00s.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/NPR_\ Planet\ Money\ Podcast/01\ #457_\ Why\ Pink_00m_00s__10m_00s.mp3
+>>>> /Users/hubertwong/temp/podcast/NPR_\ Planet\ Money\ Podcast/01\ #457_\ Why\ Pink_00m_00s__10m_00s.mp3
+ Processing file '/Users/hubertwong/temp/podcast/NPR_ Planet Money Podcast/01 #457_ Why Pink_00m_00s__10m_00s.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: MPEG 1 Layer 3 - 44100 Hz - Mono - FRAME MODE - Total time: 10m.00s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/NPR_ Planet Money Podcast/01 #457_ Why Pink_00m_00s__10m_00s_00m_00s__10m_00s.mp3" created
+ Processed 22970 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/NPR_ Planet Money Podcast/01 #457_ Why Pink_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+
+=> init /Users/hubertwong/temp/podcast/NPR_ Planet Money Podcast/01 #457_ Why Pink_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/NPR_\ Planet\ Money\ Podcast/01\ #457_\ Why\ Pink_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/NPR_\ Planet\ Money\ Podcast/01\ #457_\ Why\ Pink_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+>>>> /Users/hubertwong/temp/podcast/NPR_\ Planet\ Money\ Podcast/01\ #457_\ Why\ Pink_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+ Processing file '/Users/hubertwong/temp/podcast/NPR_ Planet Money Podcast/01 #457_ Why Pink_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: MPEG 1 Layer 3 - 44100 Hz - Mono - FRAME MODE - Total time: 10m.00s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/NPR_ Planet Money Podcast/01 #457_ Why Pink_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3" created
+ Processed 22970 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/NPR_ Planet Money Podcast/01 #457_ Why Pink_10m_00s__17m_25s_59h.mp3
+
+=> init /Users/hubertwong/temp/podcast/NPR_ Planet Money Podcast/01 #457_ Why Pink_10m_00s__17m_25s_59h.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/NPR_\ Planet\ Money\ Podcast/01\ #457_\ Why\ Pink_10m_00s__17m_25s_59h.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/NPR_\ Planet\ Money\ Podcast/01\ #457_\ Why\ Pink_10m_00s__17m_25s_59h.mp3
+>>>> /Users/hubertwong/temp/podcast/NPR_\ Planet\ Money\ Podcast/01\ #457_\ Why\ Pink_10m_00s__17m_25s_59h.mp3
+ Processing file '/Users/hubertwong/temp/podcast/NPR_ Planet Money Podcast/01 #457_ Why Pink_10m_00s__17m_25s_59h.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: MPEG 1 Layer 3 - 44100 Hz - Mono - FRAME MODE - Total time: 7m.25s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/NPR_ Planet Money Podcast/01 #457_ Why Pink_10m_00s__17m_25s_59h_00m_00s__07m_25s_53h.mp3" created
+ Processed 17056 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/NPR_ Planet Money Podcast/01 #457_ Why Pink_10m_00s__17m_25s_59h_00m_00s__07m_25s_53h_00m_00s__07m_25s_48h.mp3
+
+=> init /Users/hubertwong/temp/podcast/NPR_ Planet Money Podcast/01 #457_ Why Pink_10m_00s__17m_25s_59h_00m_00s__07m_25s_53h_00m_00s__07m_25s_48h.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/NPR_\ Planet\ Money\ Podcast/01\ #457_\ Why\ Pink_10m_00s__17m_25s_59h_00m_00s__07m_25s_53h_00m_00s__07m_25s_48h.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/NPR_\ Planet\ Money\ Podcast/01\ #457_\ Why\ Pink_10m_00s__17m_25s_59h_00m_00s__07m_25s_53h_00m_00s__07m_25s_48h.mp3
+>>>> /Users/hubertwong/temp/podcast/NPR_\ Planet\ Money\ Podcast/01\ #457_\ Why\ Pink_10m_00s__17m_25s_59h_00m_00s__07m_25s_53h_00m_00s__07m_25s_48h.mp3
+ Processing file '/Users/hubertwong/temp/podcast/NPR_ Planet Money Podcast/01 #457_ Why Pink_10m_00s__17m_25s_59h_00m_00s__07m_25s_53h_00m_00s__07m_25s_48h.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: MPEG 1 Layer 3 - 44100 Hz - Mono - FRAME MODE - Total time: 7m.25s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/NPR_ Planet Money Podcast/01 #457_ Why Pink_10m_00s__17m_25s_59h_00m_00s__07m_25s_53h_00m_00s__07m_25s_48h_00m_00s__07m_25s_42h.mp3" created
+ Processed 17052 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/NPR_ Planet Money Podcast/01 #458_ Bangladesh's T-Shirt Economy.mp3
+
+=> init /Users/hubertwong/temp/podcast/NPR_ Planet Money Podcast/01 #458_ Bangladesh's T-Shirt Economy.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/NPR_\ Planet\ Money\ Podcast/01\ #458_\ Bangladesh's\ T-Shirt\ Economy.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/NPR_\ Planet\ Money\ Podcast/01\ #458_\ Bangladesh\'s\ T-Shirt\ Economy.mp3
+>>>> /Users/hubertwong/temp/podcast/NPR_\ Planet\ Money\ Podcast/01\ #458_\ Bangladesh\'s\ T-Shirt\ Economy.mp3
+ Processing file '/Users/hubertwong/temp/podcast/NPR_ Planet Money Podcast/01 #458_ Bangladesh's T-Shirt Economy.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: MPEG 1 Layer 3 - 44100 Hz - Mono - FRAME MODE - Total time: 17m.00s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/NPR_ Planet Money Podcast/01 #458_ Bangladesh's T-Shirt Economy_00m_00s__10m_00s.mp3" created
+   File "/Users/hubertwong/temp/podcast/NPR_ Planet Money Podcast/01 #458_ Bangladesh's T-Shirt Economy_10m_00s__17m_00s_75h.mp3" created
+ Processed 39076 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/NPR_ Planet Money Podcast/01 #458_ Bangladesh's T-Shirt Economy_00m_00s__10m_00s.mp3
+
+=> init /Users/hubertwong/temp/podcast/NPR_ Planet Money Podcast/01 #458_ Bangladesh's T-Shirt Economy_00m_00s__10m_00s.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/NPR_\ Planet\ Money\ Podcast/01\ #458_\ Bangladesh's\ T-Shirt\ Economy_00m_00s__10m_00s.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/NPR_\ Planet\ Money\ Podcast/01\ #458_\ Bangladesh\'s\ T-Shirt\ Economy_00m_00s__10m_00s.mp3
+>>>> /Users/hubertwong/temp/podcast/NPR_\ Planet\ Money\ Podcast/01\ #458_\ Bangladesh\'s\ T-Shirt\ Economy_00m_00s__10m_00s.mp3
+ Processing file '/Users/hubertwong/temp/podcast/NPR_ Planet Money Podcast/01 #458_ Bangladesh's T-Shirt Economy_00m_00s__10m_00s.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: MPEG 1 Layer 3 - 44100 Hz - Mono - FRAME MODE - Total time: 10m.00s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/NPR_ Planet Money Podcast/01 #458_ Bangladesh's T-Shirt Economy_00m_00s__10m_00s_00m_00s__10m_00s.mp3" created
+ Processed 22970 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/NPR_ Planet Money Podcast/01 #458_ Bangladesh's T-Shirt Economy_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+
+=> init /Users/hubertwong/temp/podcast/NPR_ Planet Money Podcast/01 #458_ Bangladesh's T-Shirt Economy_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/NPR_\ Planet\ Money\ Podcast/01\ #458_\ Bangladesh's\ T-Shirt\ Economy_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/NPR_\ Planet\ Money\ Podcast/01\ #458_\ Bangladesh\'s\ T-Shirt\ Economy_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+>>>> /Users/hubertwong/temp/podcast/NPR_\ Planet\ Money\ Podcast/01\ #458_\ Bangladesh\'s\ T-Shirt\ Economy_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+ Processing file '/Users/hubertwong/temp/podcast/NPR_ Planet Money Podcast/01 #458_ Bangladesh's T-Shirt Economy_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: MPEG 1 Layer 3 - 44100 Hz - Mono - FRAME MODE - Total time: 10m.00s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/NPR_ Planet Money Podcast/01 #458_ Bangladesh's T-Shirt Economy_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3" created
+ Processed 22970 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/NPR_ Planet Money Podcast/01 #458_ Bangladesh's T-Shirt Economy_10m_00s__17m_00s_75h.mp3
+
+=> init /Users/hubertwong/temp/podcast/NPR_ Planet Money Podcast/01 #458_ Bangladesh's T-Shirt Economy_10m_00s__17m_00s_75h.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/NPR_\ Planet\ Money\ Podcast/01\ #458_\ Bangladesh's\ T-Shirt\ Economy_10m_00s__17m_00s_75h.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/NPR_\ Planet\ Money\ Podcast/01\ #458_\ Bangladesh\'s\ T-Shirt\ Economy_10m_00s__17m_00s_75h.mp3
+>>>> /Users/hubertwong/temp/podcast/NPR_\ Planet\ Money\ Podcast/01\ #458_\ Bangladesh\'s\ T-Shirt\ Economy_10m_00s__17m_00s_75h.mp3
+ Processing file '/Users/hubertwong/temp/podcast/NPR_ Planet Money Podcast/01 #458_ Bangladesh's T-Shirt Economy_10m_00s__17m_00s_75h.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: MPEG 1 Layer 3 - 44100 Hz - Mono - FRAME MODE - Total time: 7m.00s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/NPR_ Planet Money Podcast/01 #458_ Bangladesh's T-Shirt Economy_10m_00s__17m_00s_75h_00m_00s__07m_00s_71h.mp3" created
+ Processed 16106 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/NPR_ Planet Money Podcast/01 #458_ Bangladesh's T-Shirt Economy_10m_00s__17m_00s_75h_00m_00s__07m_00s_71h_00m_00s__07m_00s_69h.mp3
+
+=> init /Users/hubertwong/temp/podcast/NPR_ Planet Money Podcast/01 #458_ Bangladesh's T-Shirt Economy_10m_00s__17m_00s_75h_00m_00s__07m_00s_71h_00m_00s__07m_00s_69h.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/NPR_\ Planet\ Money\ Podcast/01\ #458_\ Bangladesh's\ T-Shirt\ Economy_10m_00s__17m_00s_75h_00m_00s__07m_00s_71h_00m_00s__07m_00s_69h.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/NPR_\ Planet\ Money\ Podcast/01\ #458_\ Bangladesh\'s\ T-Shirt\ Economy_10m_00s__17m_00s_75h_00m_00s__07m_00s_71h_00m_00s__07m_00s_69h.mp3
+>>>> /Users/hubertwong/temp/podcast/NPR_\ Planet\ Money\ Podcast/01\ #458_\ Bangladesh\'s\ T-Shirt\ Economy_10m_00s__17m_00s_75h_00m_00s__07m_00s_71h_00m_00s__07m_00s_69h.mp3
+ Processing file '/Users/hubertwong/temp/podcast/NPR_ Planet Money Podcast/01 #458_ Bangladesh's T-Shirt Economy_10m_00s__17m_00s_75h_00m_00s__07m_00s_71h_00m_00s__07m_00s_69h.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: MPEG 1 Layer 3 - 44100 Hz - Mono - FRAME MODE - Total time: 7m.00s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/NPR_ Planet Money Podcast/01 #458_ Bangladesh's T-Shirt Economy_10m_00s__17m_00s_75h_00m_00s__07m_00s_71h_00m_00s__07m_00s_69h_00m_00s__07m_00s_66h.mp3" created
+ Processed 16104 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/NPR_ Planet Money Podcast/01 #467_ Tires, Taxes And The Grizz.mp3
+
+=> init /Users/hubertwong/temp/podcast/NPR_ Planet Money Podcast/01 #467_ Tires, Taxes And The Grizz.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/NPR_\ Planet\ Money\ Podcast/01\ #467_\ Tires,\ Taxes\ And\ The\ Grizz.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/NPR_\ Planet\ Money\ Podcast/01\ #467_\ Tires,\ Taxes\ And\ The\ Grizz.mp3
+>>>> /Users/hubertwong/temp/podcast/NPR_\ Planet\ Money\ Podcast/01\ #467_\ Tires,\ Taxes\ And\ The\ Grizz.mp3
+ Processing file '/Users/hubertwong/temp/podcast/NPR_ Planet Money Podcast/01 #467_ Tires, Taxes And The Grizz.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: MPEG 1 Layer 3 - 44100 Hz - Mono - FRAME MODE - Total time: 14m.01s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/NPR_ Planet Money Podcast/01 #467_ Tires, Taxes And The Grizz_00m_00s__10m_00s.mp3" created
+   File "/Users/hubertwong/temp/podcast/NPR_ Planet Money Podcast/01 #467_ Tires, Taxes And The Grizz_10m_00s__14m_01s_13h.mp3" created
+ Processed 32200 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/NPR_ Planet Money Podcast/01 #467_ Tires, Taxes And The Grizz_00m_00s__10m_00s.mp3
+
+=> init /Users/hubertwong/temp/podcast/NPR_ Planet Money Podcast/01 #467_ Tires, Taxes And The Grizz_00m_00s__10m_00s.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/NPR_\ Planet\ Money\ Podcast/01\ #467_\ Tires,\ Taxes\ And\ The\ Grizz_00m_00s__10m_00s.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/NPR_\ Planet\ Money\ Podcast/01\ #467_\ Tires,\ Taxes\ And\ The\ Grizz_00m_00s__10m_00s.mp3
+>>>> /Users/hubertwong/temp/podcast/NPR_\ Planet\ Money\ Podcast/01\ #467_\ Tires,\ Taxes\ And\ The\ Grizz_00m_00s__10m_00s.mp3
+ Processing file '/Users/hubertwong/temp/podcast/NPR_ Planet Money Podcast/01 #467_ Tires, Taxes And The Grizz_00m_00s__10m_00s.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: MPEG 1 Layer 3 - 44100 Hz - Mono - FRAME MODE - Total time: 10m.00s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/NPR_ Planet Money Podcast/01 #467_ Tires, Taxes And The Grizz_00m_00s__10m_00s_00m_00s__10m_00s.mp3" created
+ Processed 22970 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/NPR_ Planet Money Podcast/01 #467_ Tires, Taxes And The Grizz_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+
+=> init /Users/hubertwong/temp/podcast/NPR_ Planet Money Podcast/01 #467_ Tires, Taxes And The Grizz_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/NPR_\ Planet\ Money\ Podcast/01\ #467_\ Tires,\ Taxes\ And\ The\ Grizz_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/NPR_\ Planet\ Money\ Podcast/01\ #467_\ Tires,\ Taxes\ And\ The\ Grizz_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+>>>> /Users/hubertwong/temp/podcast/NPR_\ Planet\ Money\ Podcast/01\ #467_\ Tires,\ Taxes\ And\ The\ Grizz_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+ Processing file '/Users/hubertwong/temp/podcast/NPR_ Planet Money Podcast/01 #467_ Tires, Taxes And The Grizz_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: MPEG 1 Layer 3 - 44100 Hz - Mono - FRAME MODE - Total time: 10m.00s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/NPR_ Planet Money Podcast/01 #467_ Tires, Taxes And The Grizz_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3" created
+ Processed 22970 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/NPR_ Planet Money Podcast/01 #467_ Tires, Taxes And The Grizz_10m_00s__14m_01s_13h.mp3
+
+=> init /Users/hubertwong/temp/podcast/NPR_ Planet Money Podcast/01 #467_ Tires, Taxes And The Grizz_10m_00s__14m_01s_13h.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/NPR_\ Planet\ Money\ Podcast/01\ #467_\ Tires,\ Taxes\ And\ The\ Grizz_10m_00s__14m_01s_13h.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/NPR_\ Planet\ Money\ Podcast/01\ #467_\ Tires,\ Taxes\ And\ The\ Grizz_10m_00s__14m_01s_13h.mp3
+>>>> /Users/hubertwong/temp/podcast/NPR_\ Planet\ Money\ Podcast/01\ #467_\ Tires,\ Taxes\ And\ The\ Grizz_10m_00s__14m_01s_13h.mp3
+ Processing file '/Users/hubertwong/temp/podcast/NPR_ Planet Money Podcast/01 #467_ Tires, Taxes And The Grizz_10m_00s__14m_01s_13h.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: MPEG 1 Layer 3 - 44100 Hz - Mono - FRAME MODE - Total time: 4m.01s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/NPR_ Planet Money Podcast/01 #467_ Tires, Taxes And The Grizz_10m_00s__14m_01s_13h_00m_00s__04m_01s_10h.mp3" created
+ Processed 9230 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/NPR_ Planet Money Podcast/01 #467_ Tires, Taxes And The Grizz_10m_00s__14m_01s_13h_00m_00s__04m_01s_10h_00m_00s__04m_01s_07h.mp3
+
+=> init /Users/hubertwong/temp/podcast/NPR_ Planet Money Podcast/01 #467_ Tires, Taxes And The Grizz_10m_00s__14m_01s_13h_00m_00s__04m_01s_10h_00m_00s__04m_01s_07h.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/NPR_\ Planet\ Money\ Podcast/01\ #467_\ Tires,\ Taxes\ And\ The\ Grizz_10m_00s__14m_01s_13h_00m_00s__04m_01s_10h_00m_00s__04m_01s_07h.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/NPR_\ Planet\ Money\ Podcast/01\ #467_\ Tires,\ Taxes\ And\ The\ Grizz_10m_00s__14m_01s_13h_00m_00s__04m_01s_10h_00m_00s__04m_01s_07h.mp3
+>>>> /Users/hubertwong/temp/podcast/NPR_\ Planet\ Money\ Podcast/01\ #467_\ Tires,\ Taxes\ And\ The\ Grizz_10m_00s__14m_01s_13h_00m_00s__04m_01s_10h_00m_00s__04m_01s_07h.mp3
+ Processing file '/Users/hubertwong/temp/podcast/NPR_ Planet Money Podcast/01 #467_ Tires, Taxes And The Grizz_10m_00s__14m_01s_13h_00m_00s__04m_01s_10h_00m_00s__04m_01s_07h.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: MPEG 1 Layer 3 - 44100 Hz - Mono - FRAME MODE - Total time: 4m.01s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/NPR_ Planet Money Podcast/01 #467_ Tires, Taxes And The Grizz_10m_00s__14m_01s_13h_00m_00s__04m_01s_10h_00m_00s__04m_01s_07h_00m_00s__04m_01s_04h.mp3" created
+ Processed 9228 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/NPR_ Planet Money Podcast/01 #468_ Kid Rock Vs. The Scalpers.mp3
+
+=> init /Users/hubertwong/temp/podcast/NPR_ Planet Money Podcast/01 #468_ Kid Rock Vs. The Scalpers.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/NPR_\ Planet\ Money\ Podcast/01\ #468_\ Kid\ Rock\ Vs.\ The\ Scalpers.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/NPR_\ Planet\ Money\ Podcast/01\ #468_\ Kid\ Rock\ Vs.\ The\ Scalpers.mp3
+>>>> /Users/hubertwong/temp/podcast/NPR_\ Planet\ Money\ Podcast/01\ #468_\ Kid\ Rock\ Vs.\ The\ Scalpers.mp3
+ Processing file '/Users/hubertwong/temp/podcast/NPR_ Planet Money Podcast/01 #468_ Kid Rock Vs. The Scalpers.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: MPEG 1 Layer 3 - 44100 Hz - Mono - FRAME MODE - Total time: 19m.05s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/NPR_ Planet Money Podcast/01 #468_ Kid Rock Vs. The Scalpers_00m_00s__10m_00s.mp3" created
+   File "/Users/hubertwong/temp/podcast/NPR_ Planet Money Podcast/01 #468_ Kid Rock Vs. The Scalpers_10m_00s__19m_05s_40h.mp3" created
+ Processed 43848 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/NPR_ Planet Money Podcast/01 #468_ Kid Rock Vs. The Scalpers_00m_00s__10m_00s.mp3
+
+=> init /Users/hubertwong/temp/podcast/NPR_ Planet Money Podcast/01 #468_ Kid Rock Vs. The Scalpers_00m_00s__10m_00s.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/NPR_\ Planet\ Money\ Podcast/01\ #468_\ Kid\ Rock\ Vs.\ The\ Scalpers_00m_00s__10m_00s.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/NPR_\ Planet\ Money\ Podcast/01\ #468_\ Kid\ Rock\ Vs.\ The\ Scalpers_00m_00s__10m_00s.mp3
+>>>> /Users/hubertwong/temp/podcast/NPR_\ Planet\ Money\ Podcast/01\ #468_\ Kid\ Rock\ Vs.\ The\ Scalpers_00m_00s__10m_00s.mp3
+ Processing file '/Users/hubertwong/temp/podcast/NPR_ Planet Money Podcast/01 #468_ Kid Rock Vs. The Scalpers_00m_00s__10m_00s.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: MPEG 1 Layer 3 - 44100 Hz - Mono - FRAME MODE - Total time: 10m.00s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/NPR_ Planet Money Podcast/01 #468_ Kid Rock Vs. The Scalpers_00m_00s__10m_00s_00m_00s__10m_00s.mp3" created
+ Processed 22970 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/NPR_ Planet Money Podcast/01 #468_ Kid Rock Vs. The Scalpers_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+
+=> init /Users/hubertwong/temp/podcast/NPR_ Planet Money Podcast/01 #468_ Kid Rock Vs. The Scalpers_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/NPR_\ Planet\ Money\ Podcast/01\ #468_\ Kid\ Rock\ Vs.\ The\ Scalpers_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/NPR_\ Planet\ Money\ Podcast/01\ #468_\ Kid\ Rock\ Vs.\ The\ Scalpers_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+>>>> /Users/hubertwong/temp/podcast/NPR_\ Planet\ Money\ Podcast/01\ #468_\ Kid\ Rock\ Vs.\ The\ Scalpers_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+ Processing file '/Users/hubertwong/temp/podcast/NPR_ Planet Money Podcast/01 #468_ Kid Rock Vs. The Scalpers_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: MPEG 1 Layer 3 - 44100 Hz - Mono - FRAME MODE - Total time: 10m.00s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/NPR_ Planet Money Podcast/01 #468_ Kid Rock Vs. The Scalpers_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3" created
+ Processed 22970 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/NPR_ Planet Money Podcast/01 #468_ Kid Rock Vs. The Scalpers_10m_00s__19m_05s_40h.mp3
+
+=> init /Users/hubertwong/temp/podcast/NPR_ Planet Money Podcast/01 #468_ Kid Rock Vs. The Scalpers_10m_00s__19m_05s_40h.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/NPR_\ Planet\ Money\ Podcast/01\ #468_\ Kid\ Rock\ Vs.\ The\ Scalpers_10m_00s__19m_05s_40h.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/NPR_\ Planet\ Money\ Podcast/01\ #468_\ Kid\ Rock\ Vs.\ The\ Scalpers_10m_00s__19m_05s_40h.mp3
+>>>> /Users/hubertwong/temp/podcast/NPR_\ Planet\ Money\ Podcast/01\ #468_\ Kid\ Rock\ Vs.\ The\ Scalpers_10m_00s__19m_05s_40h.mp3
+ Processing file '/Users/hubertwong/temp/podcast/NPR_ Planet Money Podcast/01 #468_ Kid Rock Vs. The Scalpers_10m_00s__19m_05s_40h.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: MPEG 1 Layer 3 - 44100 Hz - Mono - FRAME MODE - Total time: 9m.05s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/NPR_ Planet Money Podcast/01 #468_ Kid Rock Vs. The Scalpers_10m_00s__19m_05s_40h_00m_00s__09m_05s_34h.mp3" created
+ Processed 20877 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/NPR_ Planet Money Podcast/01 #468_ Kid Rock Vs. The Scalpers_10m_00s__19m_05s_40h_00m_00s__09m_05s_34h_00m_00s__09m_05s_29h.mp3
+
+=> init /Users/hubertwong/temp/podcast/NPR_ Planet Money Podcast/01 #468_ Kid Rock Vs. The Scalpers_10m_00s__19m_05s_40h_00m_00s__09m_05s_34h_00m_00s__09m_05s_29h.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/NPR_\ Planet\ Money\ Podcast/01\ #468_\ Kid\ Rock\ Vs.\ The\ Scalpers_10m_00s__19m_05s_40h_00m_00s__09m_05s_34h_00m_00s__09m_05s_29h.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/NPR_\ Planet\ Money\ Podcast/01\ #468_\ Kid\ Rock\ Vs.\ The\ Scalpers_10m_00s__19m_05s_40h_00m_00s__09m_05s_34h_00m_00s__09m_05s_29h.mp3
+>>>> /Users/hubertwong/temp/podcast/NPR_\ Planet\ Money\ Podcast/01\ #468_\ Kid\ Rock\ Vs.\ The\ Scalpers_10m_00s__19m_05s_40h_00m_00s__09m_05s_34h_00m_00s__09m_05s_29h.mp3
+ Processing file '/Users/hubertwong/temp/podcast/NPR_ Planet Money Podcast/01 #468_ Kid Rock Vs. The Scalpers_10m_00s__19m_05s_40h_00m_00s__09m_05s_34h_00m_00s__09m_05s_29h.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: MPEG 1 Layer 3 - 44100 Hz - Mono - FRAME MODE - Total time: 9m.05s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/NPR_ Planet Money Podcast/01 #468_ Kid Rock Vs. The Scalpers_10m_00s__19m_05s_40h_00m_00s__09m_05s_34h_00m_00s__09m_05s_29h_00m_00s__09m_05s_26h.mp3" created
+ Processed 20874 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/NPR_ Planet Money Podcast/01 #469_ Rhino Horns And Clean Water.mp3
+
+=> init /Users/hubertwong/temp/podcast/NPR_ Planet Money Podcast/01 #469_ Rhino Horns And Clean Water.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/NPR_\ Planet\ Money\ Podcast/01\ #469_\ Rhino\ Horns\ And\ Clean\ Water.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/NPR_\ Planet\ Money\ Podcast/01\ #469_\ Rhino\ Horns\ And\ Clean\ Water.mp3
+>>>> /Users/hubertwong/temp/podcast/NPR_\ Planet\ Money\ Podcast/01\ #469_\ Rhino\ Horns\ And\ Clean\ Water.mp3
+ Processing file '/Users/hubertwong/temp/podcast/NPR_ Planet Money Podcast/01 #469_ Rhino Horns And Clean Water.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: MPEG 1 Layer 3 - 44100 Hz - Mono - FRAME MODE - Total time: 16m.06s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/NPR_ Planet Money Podcast/01 #469_ Rhino Horns And Clean Water_00m_00s__10m_00s.mp3" created
+   File "/Users/hubertwong/temp/podcast/NPR_ Planet Money Podcast/01 #469_ Rhino Horns And Clean Water_10m_00s__16m_06s_49h.mp3" created
+ Processed 36999 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/NPR_ Planet Money Podcast/01 #469_ Rhino Horns And Clean Water_00m_00s__10m_00s.mp3
+
+=> init /Users/hubertwong/temp/podcast/NPR_ Planet Money Podcast/01 #469_ Rhino Horns And Clean Water_00m_00s__10m_00s.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/NPR_\ Planet\ Money\ Podcast/01\ #469_\ Rhino\ Horns\ And\ Clean\ Water_00m_00s__10m_00s.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/NPR_\ Planet\ Money\ Podcast/01\ #469_\ Rhino\ Horns\ And\ Clean\ Water_00m_00s__10m_00s.mp3
+>>>> /Users/hubertwong/temp/podcast/NPR_\ Planet\ Money\ Podcast/01\ #469_\ Rhino\ Horns\ And\ Clean\ Water_00m_00s__10m_00s.mp3
+ Processing file '/Users/hubertwong/temp/podcast/NPR_ Planet Money Podcast/01 #469_ Rhino Horns And Clean Water_00m_00s__10m_00s.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: MPEG 1 Layer 3 - 44100 Hz - Mono - FRAME MODE - Total time: 10m.00s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/NPR_ Planet Money Podcast/01 #469_ Rhino Horns And Clean Water_00m_00s__10m_00s_00m_00s__10m_00s.mp3" created
+ Processed 22970 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/NPR_ Planet Money Podcast/01 #469_ Rhino Horns And Clean Water_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+
+=> init /Users/hubertwong/temp/podcast/NPR_ Planet Money Podcast/01 #469_ Rhino Horns And Clean Water_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/NPR_\ Planet\ Money\ Podcast/01\ #469_\ Rhino\ Horns\ And\ Clean\ Water_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/NPR_\ Planet\ Money\ Podcast/01\ #469_\ Rhino\ Horns\ And\ Clean\ Water_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+>>>> /Users/hubertwong/temp/podcast/NPR_\ Planet\ Money\ Podcast/01\ #469_\ Rhino\ Horns\ And\ Clean\ Water_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3
+ Processing file '/Users/hubertwong/temp/podcast/NPR_ Planet Money Podcast/01 #469_ Rhino Horns And Clean Water_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: MPEG 1 Layer 3 - 44100 Hz - Mono - FRAME MODE - Total time: 10m.00s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/NPR_ Planet Money Podcast/01 #469_ Rhino Horns And Clean Water_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s_00m_00s__10m_00s.mp3" created
+ Processed 22970 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/NPR_ Planet Money Podcast/01 #469_ Rhino Horns And Clean Water_10m_00s__16m_06s_49h.mp3
+
+=> init /Users/hubertwong/temp/podcast/NPR_ Planet Money Podcast/01 #469_ Rhino Horns And Clean Water_10m_00s__16m_06s_49h.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/NPR_\ Planet\ Money\ Podcast/01\ #469_\ Rhino\ Horns\ And\ Clean\ Water_10m_00s__16m_06s_49h.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/NPR_\ Planet\ Money\ Podcast/01\ #469_\ Rhino\ Horns\ And\ Clean\ Water_10m_00s__16m_06s_49h.mp3
+>>>> /Users/hubertwong/temp/podcast/NPR_\ Planet\ Money\ Podcast/01\ #469_\ Rhino\ Horns\ And\ Clean\ Water_10m_00s__16m_06s_49h.mp3
+ Processing file '/Users/hubertwong/temp/podcast/NPR_ Planet Money Podcast/01 #469_ Rhino Horns And Clean Water_10m_00s__16m_06s_49h.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: MPEG 1 Layer 3 - 44100 Hz - Mono - FRAME MODE - Total time: 6m.06s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/NPR_ Planet Money Podcast/01 #469_ Rhino Horns And Clean Water_10m_00s__16m_06s_49h_00m_00s__06m_06s_43h.mp3" created
+ Processed 14028 frames - Sync errors: 0
+ time split ok
+>>> /Users/hubertwong/temp/podcast/NPR_ Planet Money Podcast/01 #469_ Rhino Horns And Clean Water_10m_00s__16m_06s_49h_00m_00s__06m_06s_43h_00m_00s__06m_06s_38h.mp3
+
+=> init /Users/hubertwong/temp/podcast/NPR_ Planet Money Podcast/01 #469_ Rhino Horns And Clean Water_10m_00s__16m_06s_49h_00m_00s__06m_06s_43h_00m_00s__06m_06s_38h.mp3
+
+=> init2 /Users/hubertwong/temp/podcast/NPR_\ Planet\ Money\ Podcast/01\ #469_\ Rhino\ Horns\ And\ Clean\ Water_10m_00s__16m_06s_49h_00m_00s__06m_06s_43h_00m_00s__06m_06s_38h.mp3
+
+=> init3 /Users/hubertwong/temp/podcast/NPR_\ Planet\ Money\ Podcast/01\ #469_\ Rhino\ Horns\ And\ Clean\ Water_10m_00s__16m_06s_49h_00m_00s__06m_06s_43h_00m_00s__06m_06s_38h.mp3
+>>>> /Users/hubertwong/temp/podcast/NPR_\ Planet\ Money\ Podcast/01\ #469_\ Rhino\ Horns\ And\ Clean\ Water_10m_00s__16m_06s_49h_00m_00s__06m_06s_43h_00m_00s__06m_06s_38h.mp3
+ Processing file '/Users/hubertwong/temp/podcast/NPR_ Planet Money Podcast/01 #469_ Rhino Horns And Clean Water_10m_00s__16m_06s_49h_00m_00s__06m_06s_43h_00m_00s__06m_06s_38h.mp3' ...
+ info: file matches the plugin 'mp3 (libmad)'
+ info: MPEG 1 Layer 3 - 44100 Hz - Mono - FRAME MODE - Total time: 6m.06s
+ info: starting time mode split
+   File "/Users/hubertwong/temp/podcast/NPR_ Planet Money Podcast/01 #469_ Rhino Horns And Clean Water_10m_00s__16m_06s_49h_00m_00s__06m_06s_43h_00m_00s__06m_06s_38h_00m_00s__06m_06s_33h.mp3" created
+ Processed 14024 frames - Sync errors: 0
+ time split ok

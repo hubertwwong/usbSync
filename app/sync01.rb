@@ -4,7 +4,7 @@ class SyncItunes
 	@@dir_src = '/Users/hubertwong/Music/iTunes/iTunes\\ Media/Podcasts/'
 	#@@dir_src = '/Users/hubertwong/Music/iTunes/'
 	@@dir_dest = '/Volumes/SANDISKUSB/PODCASTS/'
-	@@options = '-v -r -a -h'
+	@@options = '-arv --del'
 	
 	def run
 		p self.rsync_str

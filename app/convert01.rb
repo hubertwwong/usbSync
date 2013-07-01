@@ -90,7 +90,7 @@ class Convert_01
 			# remove the . prefixes.
 			current_files = self.remove_hidden_files current_files
 			
-			# cycle thru the file
+			# cycle thru the files in each directory.
 			current_files.each do |current_file|
 				# file names
 				src_file = ""
@@ -98,7 +98,7 @@ class Convert_01
 			
 				# checks if it has a m4a extension
 				if self.is_m4a? current_file		
-					puts "\n=> encoding " + current_file
+					puts "\n=> encoding " + "[" +current_dir + "][" + current_file + "]"
 					
 					# creating src and dest files.
 					src_file =  @dir_temp + current_dir + '/' + current_file
@@ -116,9 +116,12 @@ class Convert_01
 					
 					# lame encoding.
 					system self.lame_str(@opt_lame, src_file, dest_file)
-				else
-					dest_file = @dir_temp + current_dir + '/' + current_file
+				elsif self.is_mp3? current_file
+				  dest_file = @dir_temp + current_dir + '/' + current_file
+					puts ">>> " + dest_file
 					dest_file = self.escaped_file_name(dest_file)
+					puts ">>>> " + dest_file
+					dest_file
 				end
 				
 				# split the mp3...
@@ -171,6 +174,11 @@ class Convert_01
 		/.+[.]m4a$/ =~ filename ? true : false
 	end
 	
+	# a regex that check if there is a m4a prefix.
+  def is_mp3?(filename)
+    /.+[.]mp3$/ =~ filename ? true : false
+  end
+	
 	# rename ext to mp3
 	def ext_to_mp3(filename)
 		filename_without_ext = filename.gsub(/[.]\w+$/, "")
@@ -182,10 +190,15 @@ class Convert_01
 	def escaped_file_name(filename)
 		puts "\n=> init " + filename 
 		result = filename.gsub(" ", "\\ ")
+		
 		puts "\n=> init2 " + result
-		result2 = result.gsub("\'", "\\\\\'")
-		puts "\n=> init3 " + result2
-		result2
+		result2 = result.gsub("\&", "\\\\\&")
+    
+    puts "\n=> init3 " + result2
+		result3 = result2.gsub("\'", "\\\\\'")
+		
+		puts "\n=> init4 " + result3
+		result3
 	end
 	
 	# FILE HELPERS

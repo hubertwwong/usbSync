@@ -135,16 +135,22 @@ describe 'convert_01' do
         result.must_equal 'foobarmedia.m4a'  
       end
       
-      it 'test 2 with spaces' do
+      it '2 spaces' do
         file_name = 'foo sss.mp3'
         result = @c.escaped_file_name file_name
         result.must_equal 'foo\ sss.mp3'  
       end
       
-      it 'test 3 hypens and space' do
+      it '3 hypens and space' do
         file_name = "foo's awesome song.mp3"
         result = @c.escaped_file_name file_name
         result.must_equal "foo\\\'s\\\ awesome\\\ song.mp3"
+      end
+      
+      it '& test' do
+        file_name = "foos&  song.mp3"
+        result = @c.escaped_file_name file_name
+        result.must_equal "foos\\\&\\\ \\\ song.mp3"
       end
     end
   end
